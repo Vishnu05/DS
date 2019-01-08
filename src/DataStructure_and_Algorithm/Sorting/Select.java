@@ -14,21 +14,22 @@ public class Select {
             a[b][b]=var.nextInt();
         }*/
         String[] arrays = {"vishnu", "back", "to", "game", "data", "Structures"};
-
         for (String array1 : arrays) {
-            System.out.println(array1);
-        }
 
+            System.out.println(array1);
+
+        }
         System.out.println(arrays.length);
+        String a;
         Scanner var = new Scanner(System.in);
         int arr[] = {1, 2, 5, 7};
-        int b = var.nextInt();
-        String a = var.next();
-
+        int b =
+                var.nextInt();
+        a = var.next();
         for (int i = 0; i < arrays.length; i++) {
             //if (b[i] == arr) {
-            System.out.println("Found");
-            // }
+                System.out.println("Found");
+           // }
             System.out.println("Loop");
 
         }

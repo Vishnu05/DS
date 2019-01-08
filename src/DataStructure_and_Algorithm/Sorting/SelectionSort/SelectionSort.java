@@ -3,18 +3,15 @@ package DataStructure_and_Algorithm.Sorting.SelectionSort;
 import java.util.Scanner;
 
 public class SelectionSort {
-
     public static void main(String args[]) {
         Scanner var = new Scanner(System.in);
         System.out.println("Enter the Array size ..");
         int array_size = var.nextInt();
         int a[] = new int[array_size];
-
         System.out.println("Enter the Array element of " + array_size + " numbers");
         for (int i = 0; i < a.length; i++) {
             a[i] = var.nextInt();
         }
-
         System.out.println("The sorted element are : Selection sort  :");
         for (int i = 0; i <= a.length - 1; i++) {
             int index = i;

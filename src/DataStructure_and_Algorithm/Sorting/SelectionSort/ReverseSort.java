@@ -16,18 +16,17 @@ public class ReverseSort {
         }
         System.out.println("The sorted list are : ");
         for (int i = 0; i < a.length; i++) {
-            int min_index = 0;
+            int min_index = i;
             for (int j = i; j < a.length; j++) {
-                if (a[j] > a[i]) {
+                if (a[j] > a[min_index]) {
                     min_index = j;
-                    // System.out.println(j); // this is useless it a condition idk i'm wrong
+                   // System.out.println(j); // this is useless it a condition idk i'm wrong
                 }
-                // System.out.println("The for loop checks every integer and returns value : "+j);
+                  System.out.println("The for loop checks every integer and returns value : "+j);
             }
             int temp = a[min_index];
             a[min_index] = a[i];
             a[i] = temp;
-            min_index++;
             System.out.println(temp);
         }
     }

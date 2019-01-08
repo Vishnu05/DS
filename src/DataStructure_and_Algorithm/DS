@@ -1,0 +1,35 @@
+DataStructure And Algorithm
+
+Sorting
+
+Merge
+Quick
+Heap
+Bubble
+Insertion
+Selection
+
+Time complexity  and space complexity
+Big (O)n
+
+Type of measurement in Big-O notations
+
+worst case
+best case
+average case
+
+
+linear time
+quadratic time?
+
+Merge sort conquer and divide algorithm
+
+selection, bubble, insertion sort are time complexity they take longer time to do that
+
+Arrays
+
+Arrays are like data structure we can store multiple elements in a single varibale
+contigous area of memory
+we can have constant access to array write, read,
+
+Row Major indexing the column of arrays are turned into rows-- coulms into rows
