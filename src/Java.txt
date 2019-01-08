@@ -1,0 +1,504 @@
+diff b/w compile time and runtime?
+
+‏
+what is abstract??
+noun- summary, Synopsys
+
+high-level language and low-level language?
+
+human readable, natural language, easy to learn code and debug,
+slow when compared to ll lang, interpreter and compiler
+
+low-level lang- binary language(machine language) 0 and's 1, assembly language hard to learn,
+compile and debug. but it is damn fast than high-level language it is directly connected with motherboard
+‎
+
+what is an object?
+
+an object can be a variable, a data structure, a function, or a method, and as such,
+is a value in memory referenced by an identifier object has state and behaviour state are feilds(datatypes) and behavior are methods
+Objects are created in the heap memory
+
+A program written in high level language are called source code
+A compiler and interpreter is a program used to convert high leval lang into MACHINE leval language for understanding the processor
+windows + intel =processor -this only runs the machine code
+
+complier will convert the source code into object code - code produced by compiler or assembler
+
+parsing ??
+computer text or string which is more readable and understandable to human xml json(Still not clear need to read it again)(Structure)
+
+preprocessor ?
+#include <?>filename this will first load ex iostream for i/o (need to read deep)
+
+lexical analysis?
+
+jvm Java virtual machine
+
+jit (Just in time compiler) - It makes java to perform high
+java source code will be converted into .class file with help of jvm
+the byte code will be converted into machine code with help of JIT compiler
+
+compiler and interpeter
+compiler will convert the high leval language into byte code ( compiler which runs the entire program and debugs)
+interpeter(it a program)- will convert byte code to machine code ( while interpeter will convert statement by statement it makes slow the whole process)
+
+Run time interpreter
+
+class loader--> Byte code verifer --> engine (machine binary code)
+
+Local variables − Variables defined inside methods, constructors or blocks are called local variables.
+The variable will be declared and initialized within the method and the variable will be destroyed when the method has completed.
+It cannot have the access specifer, the varibale are created when the method or construcor called and destroyed when they complete
+it implements in stack leval internally
+
+Instance variables − Instance variables are variables within a class but outside any method.
+These variables are initialized when the class is instantiated.
+Instance variables can be accessed from inside any method, constructor or blocks of that particular class. can be accessed within the class
+
+Class variables − Class variables are variables declared within a class, outside any method, with the static keyword.
+
+Constructor-IN java there will be a default constructor , Constructors do not have return type (why ?), it cannot be final,abstract,static
+The name of the const will be same as class name, if we do not create const then it is explictly created by java
+every class has a constructor
+Each time a new object is created, at least one constructor will be invoked
+new keyword-used to create a new object
+
+Declaration − A variable declaration with a variable name with an object type.
+
+Instantiation − The 'new' keyword is used to create the object.
+
+Initialization − The 'new' keyword is followed by a call to a constructor. This call initializes the new object.
+
+Append- add something end of document (like concatination)
+
+in java everything is a object
+
+Architecture-neutral − Java compiler generates an architecture-neutral object file format,
+which makes the compiled code executable on many processors, with the presence of Java runtime system.
+
+java multithreading,platform independent, object oriented,secured
+
+method- in a class we can have any number of methods we can write the logics and solve the problem
+
+java identifer- The name of the class name,variable, method always should start with letter and some common things
+no numbers, and specifed special charecter are not allowed
+
+invoke ? calling a function (but there is lot more in this)
+
+50 reserved keyword as i studied (may be more or less check it again)
+
+Enums--?
+
+final keyword for declaration used to the  variable connot be changed throughout the class
+
+Modifiers - Accessable - private, public, protected
+Non Accessable -final , abstract, strictfc?????
+
+Inheritance- Superclass and subclass  (classes can be derived from classes)
+if you need to create a new class and here is already a class that has some of the code you require,
+then it is possible to derive your new class from the already existing code.
+The concept of reusing the feilds and method of a exsiting class without having to rewrite the code in new class
+
+Interface-
+
+super and this keyword ???
+
+instance of class??
+
+
+c++
+jdk,jvm,jre,
+operator
+pressenndece
+oops concepts
+new
+static ,this
+abstarct class
+encap packaging
+excpetion handing
+thread
+inner genric values
+java array
+java string
+
+
+Variables- 8 types of data types, Variables are nothing but reserved memory locations to store values
+primitive and non privitive data types, based on datatypes the os allocate memory to variables
+When we decalre the datatypes the memory is allocated to the variable
+Refernece and object type datatypes
+
+class leval varaibable have default value and local variable dosen't have a default value
+it has to br intialzed
+
+byte - 8 bit two complement integer , it can store up to -128(min),max 127 , default valu - 0
+short -16 bit two complement integer, it is 2 times smaller than int
+-32,768 to 32,767 def val - 0
+int - 32 bit -2*31 to 2*31-1  2 complement integer , default value 0
+long - 64 bit [-2*63 to 2*63-1] 2 com int, default value is 0l.
+precsion ??
+float - (IEEE 754)32 bit single precsion used to store large arrays ( some time for more accurary not for curreny ) ex 1.2f
+double- 64 bit double precsion def val=0.0d ex 12.3 generally used as the default data type for decimal values, generally the default choice
+boolean -one bit information, only two values true or false, by default it is false
+char - singlr 16 bit unicode character \u0000 and \uffff 65,535 max
+
+Litreals
+
+Heap and stack?
+
+Stack is for static memory and heap is for dynamic memory
+stack is used to store local variable in java
+object is heap
+the instance variable are created in heap in class refernce
+the class will have a (main method stored in stack)object--> the object will refer the class address( stored in heap)
+
+instance variable are created with the new keyword and destoryed when object is destoryed
+access modifers can be used to give access of variable while using inheritance, have default value while it creating constrcutor
+
+Static variables are created when program starts and destoryed when it ends
+it can be called by className.varibableName
+Final variable cannot be changeable
+
+Access Modifiers
+Visible to the package, the default. No modifiers are needed.
+Visible to the class only (private).
+Visible to the world (public).
+Visible to the package and all subclasses (protected).
+
+Non-Access Modifiers
+Java provides a number of non-access modifiers to achieve many other functionality.
+
+The static modifier for creating class methods and variables.
+The final modifier for finalizing the implementations of classes, methods, and variables.
+The abstract modifier for creating abstract classes and methods.
+The synchronized and volatile modifiers, which are used for threads
+
+operators
+Bit wise operator works on
+ternary operators ???
+
+loops
+
+Enhanced for loops
+for ( declaration of independence : variable )
+
+This keyword
+It us used to to point out the instance variable and say
+
+
+
+
+SQL
+Database & Relatinal database
+
+Three important types
+1, DDL- Data definetion language -table
+2, DML - Data manuplation language- record
+3, DCL -Data control language - truncate
+
+Constrains - limitations, restriction, force, pressure , obligation
+
+primary key - root of the row, we can access with that id, the entire column should be unique
+forgein key- rest the cloumns in row to get access with that specfic row to access
+
+
+Super Keyword
+The super keyword is similar to this keyword. Following are the scenarios where the super keyword is used.
+
+It is used to differentiate the members of superclass from the members of subclass, if they have same names.
+
+It is used to invoke the superclass constructor from subclass.
+
+Static class is a class level it can be accessed
+mostly static variable can access in main without objects
+static method also can be accessed without object directly
+the method can be directly called
+
+static is a keyword, if we declare any method as static, it is known as static method.
+The core advantage of static method is that there is no need to create object to invoke the static method.
+The main method is executed by the JVM, so it doesn't require to create object to invoke the main method. So it saves memory.
+
+
+Recursion ??
+
+The functions call it self it is recusrion?
+
+String
+
+length- to calculate the length of the given string
+concat
+
+charat() method- index of the charecter to be returned
+eg stringvariabe.charAt(4); the char will return the string in array order
+
+String immutable ?
+
+normal variable and refernce variable ?
+
+compile time and run time?
+(basics)
+compile time- generally syntax error on code before executing ( The source code need to be converted to low level language to run that)
+
+runtime - the code have genrated but still the source code have error (like exceptions )
+
+
+Exceptions
+
+A program that stop abrupctuly due to error or the program stop
+there are centain causes to this problem
+user may have entered wrong i/p ,ext..
+
+checked exceptions and unchecked exceptions
+checked - compile time
+unchecked - runtime error,it is not checked in compile time rather then it is checked in runtime error
+error - outof memory, stackoverflow error,virtualmachine error-  error cannot be solved
+
+Every error start with java.lang.exceptions class - in print statement (Exception e) the e wil give what kind of class exception is this
+
+Exceptions has mainly two types ( is a super class of all exception)
+Run time exceptions - syntax,logical
+IO-input/output exceptions - user gives wrong i/p
+
+throw vs throws vs throwable ?
+throwable - class level
+
+Exceptions handing keywords
+try - where the errors occurs and handled, code might throws an exception
+catch- prints what kinda of exceptions , this block only handle the exception
+in catch block we can specify the correct exception or we can use (global exception)
+final - it gets excuted anyways the catch dosent compile also
+there can be many catch and try bock but only one final block should be executed
+throw - using throw keyword only one exceptions can be created
+throw is followed by instance of exceptions
+throws -using throws keyword you can declare multiple excpetions,
+it follows the exceptions class
+
+Implict and explict
+implict -
+explict -
+
+
+Ubuntu - 'sudo apt autoremove'
+
+
+Collections - collections is used to store, reterive, manipulate data
+
+List- it contains duplicate elements,The elements can be inserted in middle of element by index
+List has three types
+List- linkedlist, arraylist
+Vector
+Set - hashset
+Queue - deque
+
+ArrayList- it is resizeable
+Array is fixed when the given length is filled with array we can't add anymore elements
+it has to be increase the size, ArrayList grow and shrink dynamically
+add()- it is used to add the element in array
+remove(index,[string, int - name,no]) -it is used to remove the element
+add(index,value)
+IndexOf -to check the index number
+
+boxing and unboxing ??
+
+Static keywords uses?
+class
+method
+variable - it can be accessable without an object
+static method cannot access non static method
+save memory and make efficent for faster loading the class
+static keyword always fixed the memory that means that will be located only once in the program
+where as final keyword always fixed the value that means it makes variable values constant.
+
+Because object is not required to call static method if main() is non-static method,
+then jvm create object first then call main() method due to that face the problem of extra memory allocation
+
+
+Interface
+Abstract methods cannot have body only method definition no declaration
+interface cannot have modifers no private and protected
+
+Instantiate word
+The new operator instantiates a class by allocating memory for a new object and returning a reference to that memory. ...
+Note: The phrase "instantiating a class" means the same thing as "creating an object."
+When you create an object, you are creating an "instance" of a class, therefore "instantiating" a class
+
+
+Spring Framework
+Loosely coupling
+
+Oops
+There have a structure and orgainzed data when compared to the Procedure programming language
+Main points: code reuseability
+hiding of data
+has access specfier
+inheritance with this help we can extend class and resue the code
+polymorphism
+overloading
+objects
+class
+Encapsulation - Encapsulation in Java is a mechanism for wrapping the data variables
+and code acting on the methods together as a single unit.
+In encapsulation, the variables of a class will be hidden from other classes and
+can be accessed only through the methods of their current class. Therefore, it is also known as data hiding.
+While encapsulation groups together data and methods that act upon the data,
+data abstraction deals with exposing the interface to the user and hiding the details of implementation.
+
+Abstraction - the data will be hide and it will show relavant details to the user ( dumb explanation )
+the abstract class is declared using the keyword abstract, and the methods should be declared are abstract does not have the body
+the absract class cannot have object ??
+hiding the implementation details from user, abstract method should be declared in abstract class
+when we implements from the interface to normal class, all the methods should be implemented or else the class should be abstract class
+interface cannot have access specifiers, the variable declared in interface are final cannot be reassigned
+interface can only implements interface, while abstract class can implements and extends classes
+the methods are declared in interface are default abstract
+to use interface implements keyword should be used, abstarct is the keyword to mark the class, method as abstract
+multiple inheritance can be achived by the interface, it is also used as loose coupling
+Abstract function(method) cannot be final
+Interface have final, public and static.
+In case of abstract class, a class may extend only one abstract class.	A Class may implement several interfaces.
+
+Inhertiance - the properties of deriving from Superclass to subclass(accessing methods and variable) (ex: Child can access the properties of father without hestiation)
+Inheritance in Java is a mechanism in which one object acquires all the properties and behaviors of a parent object
+code resuability
+method overriding (Runtime polymorphism)
+No multiple inheritance it causes un nesscary ambiguity
+single, multilevel, hybird are there in java
+
+Polymorphism
+it can be done by upcasting the refernce variable of another class with inheritance
+compile time polymorphism and runtime polymorphism
+compile time polymorphism have same method with differnt signatures (parameteres vary in arguments)
+run time poly with same method name in diffrent subclass which extends base class
+
+what is parsing ?
+analyse (a string or text) logical syntatic component
+To split a file or other input into pieces of data that can be easily stored or manipulated.
+Parsing in Java methods means that the method is taking input from a string and returning some other data type
+
+String
+Literals :- The value we assign to variable is called Literal
+String are immutable once they are created it cannot be changed
+We can change the string using Stringbuffer, StringBuilder classes
+
+API
+simply a messenger between the request and response
+when ever a request is sent the resonse will be send back to corresponding request this is API (in simple terms)
+
+Spring Framework
+POJO classes- Plain old java objects are used
+Spring is a loosely coupled application because of dependency injection
+Singleton design pattern
+Spring is a MVC model view controller
+lightweight application
+IOC inverions of control ?
+The objects are created by spring container, we don't need
+It has dependency Injection and AOP aspect orinted programming - Inversion of control
+leightweight
+used for web applications and restfull services while they return the response in form of xml, Json
+Spring MVC model view controller
+
+Loose coupling- less dependency
+As the name suggesting loose coupling means reducing dependencies of a class that use a different class directly.
+Loose coupling promotes greater reusability, easier maintainability. On the other hand tight coupling,
+classes and objects are dependent on one another
+
+Virtual functions ?
+multiple inheritance can be achieved by interface ( this may be wrong)
+
+Static binding and Dynamic binding
+Static binding generally occurs in compile time while dynamic binding occurs in run time
+private, static and final are used in static binding
+
+Super keyword
+this is used to call construtor
+use to inkove methods and variable from super class to sub class
+
+final keyword
+final method cannot be override
+final variable cannot be changed
+final class cannot be extend( you can't inherit it)
+
+String pool ??
+immutable string - when the string is declared it is assigned to string pool when ever we create a string the string is stored,
+and the refernce addressed will be same
+the string pool stores the string variables and the way it stores..
+
+Multithreading
+doing Multi tasks in concurrently without affecting anything is concurrent
+more tasks at a time withou killing the memory of ram, it divides the core and give each core a specific task.
+Process and Thread are two important things in multithreading
+
+Annotations??
+
+Recursion?
+Breaking down the problem into smaller ones is called recursion
+(example) Inception movie - dream within the dream when they want to come reality need to break, comeout from each dream by kick
+
+Junit, test cases, microservice, websrevice, TDD test driven development
+
+Stackoverflow error- when a recursive call is happened there has to an end, like return at this point,
+the computer memory has stack and heap where stack will store or access the main method, when the main method complete
+it goes to the function invoke or call the function, when in a method it call it self again and again the satck is fulled with the recursive method,
+and finaly becames stackoverflow error.
+
+Base case ?
+Recursion, in factorial the base case is one
+factorial of 4; 4*3 fact,3*2fact, 2*1fact, 1fact , we if knows one factorail then it will give the valur to 2, then 3 and 4 eventually will get the value of fact 3
+and we can calculate the factorial of 4.
+
+By deafult the methods in java are package-private which is accessable throughout the package.
+At the top level—public, or package-private (no explicit modifier).
+At the member level—public, private, protected, or package-private (no explicit modifier).
+
+
+Java, JSON, SOAP, XML, IDE, Eclipse, Net Beans
+
+Java robust- it is platform independent, garbage collection
+
+Java main concepts
+OOPS
+Exceptions
+Collections
+Threading
+Keywords
+Memory management, stack heap how the memory works, garbage collections
+
+ If a class is declared as final then by default all of the methods present in that class are automatically final but variables are not.
+
+Spring
+
+Interface represent the functionality
+
+final class cannot inherit
+
+Bodmas rule - precident table - Bracket, order, division, multiplication, addition, subtraction
+
+Colleaction- interface, collection, Collections - Class
+List - ArrayList, LinkedList, Vector
+ArrayList- Dynamic array, search faster, inserting a element in middle will give time complexcity
+the conseqent array will be rearranged whole
+LinkedList - Double linked list - Has nodes Previous and next with help of that, the inserting is easy
+Search is in worst case
+
+Multi-Threading
+More process one at a time
+Eg : if a java program encounter a error it show error in main thread and exception
+Every java program runs a thread, Process can be breakdown into two or three called thread
+Process and Thread ?
+Process are controlled by operating system and thread are controlled by programmers.
+
+Thread concept
+run, runnable, sleep & wait, dead are some main methods in thread and life cyle of thread
+
+thread also has priority based which has three types
+Min_priority(1), Max_priority(10), Norm_priority(5)
+Dead lock situation - when the thread meats two same level priority
+The class has to implements the Runnable interface
+
+Hard-code
+fix (data or parameters) in a program in such a way that they cannot be altered without modifying the program.
+
+ParseInt which string convert to int
+
+
+
