@@ -2,266 +2,24 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1200b718-ac7b-48e9-a9b1-6ac2dbfc348f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/hamcrest-core-1.3.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/junit-4.12.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/DSw/DataStructure_and_Algorithm/HackerRank/Day_10/Median.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/DSw/DataStructure_and_Algorithm/HackerRank/Days_30/HelloWorld.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/DSw/DataStructure_and_Algorithm/Pattern/ReversePattern.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/DSw/Java/Advanced/Threading/ThreadMethods.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/DSw/Java/Basics/OOPS/Polymorphism/Over.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/DSw/Zoho/Basics/Loops/ForLoop.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DataStructure_and_Algorithm/HackerRank/Day_10/Median.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DataStructure_and_Algorithm/HackerRank/Days_30/HelloWorld.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dictionaries/Vishnu_Thamizharasan.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Arquillian_JUnit_Release.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DataStructure_and_Algorithm/HackerRank/Day_10/Weighted_mean.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DataStructure_and_Algorithm/HackerRank/Day_10/Weighted_mean.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DataStructure_and_Algorithm/HackerRank/Java/Int_String.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DataStructure_and_Algorithm/HackerRank/Java/if_else.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DataStructure_and_Algorithm/HackerRank/Java/std.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Java/Basics/Strings/Int_to_String.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tuv.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yoo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DS.iml" beforeDir="false" afterPath="$PROJECT_DIR$/DSw.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/master" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DS/Basics/Pattern_Design.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSw/Basics/Pattern_Design.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DS/Basics/Pract$gofor.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSw/Basics/Pract$gofor.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DS/Basics/Pract.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSw/Basics/Pract.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DS/Basics/Prime_No_Ornot.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSw/Basics/Prime_No_Ornot.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DS/Basics/SelectionSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSw/Basics/SelectionSort.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DS/Basics/TestRun.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSw/Basics/TestRun.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DS/Basics/classe.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSw/Basics/classe.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DS/DataStructure_and_Algorithm/BigO_Notation/Rearrange.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSw/DataStructure_and_Algorithm/BigO_Notation/Rearrange.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DS/DataStructure_and_Algorithm/BigO_Notation/RerngSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSw/DataStructure_and_Algorithm/BigO_Notation/RerngSort.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DS/DataStructure_and_Algorithm/DS" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSw/DataStructure_and_Algorithm/DS" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DS/DataStructure_and_Algorithm/Pattern/ContinuousPattern.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSw/DataStructure_and_Algorithm/Pattern/ContinuousPattern.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DS/DataStructure_and_Algorithm/Pattern/DoublePattern.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSw/DataStructure_and_Algorithm/Pattern/DoublePattern.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DS/DataStructure_and_Algorithm/Pattern/Normal_pattern.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSw/DataStructure_and_Algorithm/Pattern/Normal_pattern.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DS/DataStructure_and_Algorithm/Pattern/PatternStar.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSw/DataStructure_and_Algorithm/Pattern/PatternStar.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DS/DataStructure_and_Algorithm/Pattern/ReversePattern.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DS/DataStructure_and_Algorithm/Pattern/Triangle.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSw/DataStructure_and_Algorithm/Pattern/Triangle.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DS/DataStructure_and_Algorithm/Problems/Calculator.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSw/DataStructure_and_Algorithm/Problems/Calculator.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DS/DataStructure_and_Algorithm/Problems/Duplicate.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSw/DataStructure_and_Algorithm/Problems/Duplicate.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DS/DataStructure_and_Algorithm/Problems/Matrix.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSw/DataStructure_and_Algorithm/Problems/Matrix.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DS/DataStructure_and_Algorithm/Problems/Palindrome.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSw/DataStructure_and_Algorithm/Problems/Palindrome.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DS/DataStructure_and_Algorithm/Problems/String_check.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSw/DataStructure_and_Algorithm/Problems/String_check.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DS/DataStructure_and_Algorithm/Problems/SubArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSw/DataStructure_and_Algorithm/Problems/SubArray.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DS/DataStructure_and_Algorithm/Sorting/BubbleSort/BubbleSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSw/DataStructure_and_Algorithm/Sorting/BubbleSort/BubbleSort.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DS/DataStructure_and_Algorithm/Sorting/MergeSort/MergeSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSw/DataStructure_and_Algorithm/Sorting/MergeSort/MergeSort.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DS/DataStructure_and_Algorithm/Sorting/MergeSort/recursion.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSw/DataStructure_and_Algorithm/Sorting/MergeSort/recursion.fxml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DS/DataStructure_and_Algorithm/Sorting/Recursion/GFG.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSw/DataStructure_and_Algorithm/Sorting/Recursion/GFG.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DS/DataStructure_and_Algorithm/Sorting/Recursion/RecSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSw/DataStructure_and_Algorithm/Sorting/Recursion/RecSort.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DS/DataStructure_and_Algorithm/Sorting/Recursion/Recursion.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSw/DataStructure_and_Algorithm/Sorting/Recursion/Recursion.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DS/DataStructure_and_Algorithm/Sorting/Recursion/Recursive2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSw/DataStructure_and_Algorithm/Sorting/Recursion/Recursive2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DS/DataStructure_and_Algorithm/Sorting/Recursion/TwoWay.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSw/DataStructure_and_Algorithm/Sorting/Recursion/TwoWay.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DS/DataStructure_and_Algorithm/Sorting/Select.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSw/DataStructure_and_Algorithm/Sorting/Select.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DS/DataStructure_and_Algorithm/Sorting/SelectionSort/Difference_minimum_pair.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSw/DataStructure_and_Algorithm/Sorting/SelectionSort/Difference_minimum_pair.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DS/DataStructure_and_Algorithm/Sorting/SelectionSort/ReverseSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSw/DataStructure_and_Algorithm/Sorting/SelectionSort/ReverseSort.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DS/DataStructure_and_Algorithm/Sorting/SelectionSort/Searching.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSw/DataStructure_and_Algorithm/Sorting/SelectionSort/Searching.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DS/DataStructure_and_Algorithm/Sorting/SelectionSort/Searching_int.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSw/DataStructure_and_Algorithm/Sorting/SelectionSort/Searching_int.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DS/DataStructure_and_Algorithm/Sorting/SelectionSort/SelectionSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSw/DataStructure_and_Algorithm/Sorting/SelectionSort/SelectionSort.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DS/Emp_details.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSw/Emp_details.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DS/Exceptions/go.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSw/Exceptions/go.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DS/Fibonacci.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSw/Fibonacci.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DS/Fibonacci1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSw/Fibonacci1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DS/Java.txt" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSw/Java.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DS/Java/Advanced/Collections/Java-collection-framework-hierarchy.png" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSw/Java/Advanced/Collections/Java-collection-framework-hierarchy.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DS/Java/Advanced/Collections/List/ArrayList/AddAll.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSw/Java/Advanced/Collections/List/ArrayList/AddAll.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DS/Java/Advanced/Collections/List/ArrayList/ArrayLists.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSw/Java/Advanced/Collections/List/ArrayList/ArrayLists.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DS/Java/Advanced/Collections/List/ArrayList/Collect.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSw/Java/Advanced/Collections/List/ArrayList/Collect.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DS/Java/Advanced/Collections/List/ArrayList/Initializing$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSw/Java/Advanced/Collections/List/ArrayList/Initializing$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DS/Java/Advanced/Collections/List/ArrayList/Initializing.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSw/Java/Advanced/Collections/List/ArrayList/Initializing.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DS/Java/Advanced/Collections/List/ArrayList/Loops.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSw/Java/Advanced/Collections/List/ArrayList/Loops.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DS/Java/Advanced/Collections/List/ArrayList/Sorting.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSw/Java/Advanced/Collections/List/ArrayList/Sorting.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DS/Java/Advanced/Collections/List/ArrayList/Stack.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSw/Java/Advanced/Collections/List/ArrayList/Stack.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DS/Java/Advanced/Collections/List/LinkedList/DesignPattern.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSw/Java/Advanced/Collections/List/LinkedList/DesignPattern.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DS/Java/Advanced/Collections/List/LinkedList/LinkedLists.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSw/Java/Advanced/Collections/List/LinkedList/LinkedLists.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DS/Java/Advanced/Collections/List/LinkedList/LinkedVSHash.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSw/Java/Advanced/Collections/List/LinkedList/LinkedVSHash.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DS/Java/Advanced/Collections/List/LinkedList/a.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSw/Java/Advanced/Collections/List/LinkedList/a.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DS/Java/Advanced/Collections/List/LinkedList/b.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSw/Java/Advanced/Collections/List/LinkedList/b.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DS/Java/Advanced/Collections/List/LinkedList/c.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSw/Java/Advanced/Collections/List/LinkedList/c.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DS/Java/Advanced/Collections/Map/HashMaps.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSw/Java/Advanced/Collections/Map/HashMaps.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DS/Java/Advanced/Collections/Map/table.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSw/Java/Advanced/Collections/Map/table.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DS/Java/Advanced/Exceptions/Custo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSw/Java/Advanced/Exceptions/Custo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DS/Java/Advanced/Exceptions/CustomThrow.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSw/Java/Advanced/Exceptions/CustomThrow.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DS/Java/Advanced/Exceptions/Except.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSw/Java/Advanced/Exceptions/Except.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DS/Java/Advanced/Exceptions/ExceptionsMethods.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSw/Java/Advanced/Exceptions/ExceptionsMethods.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DS/Java/Advanced/Exceptions/FileReaders.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSw/Java/Advanced/Exceptions/FileReaders.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DS/Java/Advanced/Exceptions/FinalBlock.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSw/Java/Advanced/Exceptions/FinalBlock.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DS/Java/Advanced/Exceptions/Throw.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSw/Java/Advanced/Exceptions/Throw.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DS/Java/Advanced/Exceptions/Throws.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSw/Java/Advanced/Exceptions/Throws.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DS/Java/Advanced/Exceptions/ThrowsTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DS/Java/Advanced/Exceptions/exceptionobject.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSw/Java/Advanced/Exceptions/exceptionobject.JPG" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DS/Java/Advanced/Exceptions/exceptions-callstack.gif" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSw/Java/Advanced/Exceptions/exceptions-callstack.gif" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DS/Java/Advanced/Exceptions/exceptions-errorOccurs.gif" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSw/Java/Advanced/Exceptions/exceptions-errorOccurs.gif" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DS/Java/Advanced/Exceptions/map.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSw/Java/Advanced/Exceptions/map.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DS/Java/Advanced/Exceptions/py.py" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSw/Java/Advanced/Exceptions/py.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DS/Java/Advanced/Exceptions/throwable.png" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSw/Java/Advanced/Exceptions/throwable.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DS/Java/Advanced/StringBuffer/Stringbuffer.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSw/Java/Advanced/StringBuffer/Stringbuffer.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DS/Java/Advanced/Threading/Syn.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSw/Java/Advanced/Threading/Syn.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DS/Java/Advanced/Threading/Thread1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSw/Java/Advanced/Threading/Thread1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DS/Java/Advanced/Threading/ThreadMethods.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DS/Java/Advanced/Threading/ThreadPriority.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSw/Java/Advanced/Threading/ThreadPriority.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DS/Java/Advanced/Threading/Thread_Life_Cycle.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSw/Java/Advanced/Threading/Thread_Life_Cycle.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DS/Java/Advanced/Threading/b.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSw/Java/Advanced/Threading/b.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DS/Java/Advanced/Threading/car.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSw/Java/Advanced/Threading/car.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DS/Java/Advanced/Threading/ex.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSw/Java/Advanced/Threading/ex.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DS/Java/Advanced/Threading/th.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSw/Java/Advanced/Threading/th.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DS/Java/Advanced/Threading/th1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSw/Java/Advanced/Threading/th1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DS/Java/Advanced/Threading/th2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSw/Java/Advanced/Threading/th2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DS/Java/Advanced/Threading/vehicle.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSw/Java/Advanced/Threading/vehicle.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DS/Java/Advanced/Threading/yield.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSw/Java/Advanced/Threading/yield.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DS/Java/Basic/JavaCls/subclass.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSw/Java/Basic/JavaCls/subclass.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DS/Java/Basic/JavaCls/variables$vishnu.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSw/Java/Basic/JavaCls/variables$vishnu.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DS/Java/Basic/JavaCls/variables.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSw/Java/Basic/JavaCls/variables.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DS/Java/Basics/Arrays/AddingArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSw/Java/Basics/Arrays/AddingArray.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DS/Java/Basics/Arrays/Arr.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSw/Java/Basics/Arrays/Arr.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DS/Java/Basics/Arrays/Arrays.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSw/Java/Basics/Arrays/Arrays.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DS/Java/Basics/Arrays/Compare.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSw/Java/Basics/Arrays/Compare.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DS/Java/Basics/Arrays/Matrix.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSw/Java/Basics/Arrays/Matrix.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DS/Java/Basics/Arrays/Shifting.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSw/Java/Basics/Arrays/Shifting.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DS/Java/Basics/Arrays/StringArrays.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSw/Java/Basics/Arrays/StringArrays.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DS/Java/Basics/Arrays/SumDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSw/Java/Basics/Arrays/SumDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DS/Java/Basics/Boxing/Wrapper.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSw/Java/Basics/Boxing/Wrapper.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DS/Java/Basics/Boxing/a$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSw/Java/Basics/Boxing/a$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DS/Java/Basics/Boxing/a$b.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSw/Java/Basics/Boxing/a$b.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DS/Java/Basics/Boxing/a$c.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSw/Java/Basics/Boxing/a$c.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DS/Java/Basics/Boxing/a.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSw/Java/Basics/Boxing/a.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DS/Java/Basics/Boxing/packages.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSw/Java/Basics/Boxing/packages.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DS/Java/Basics/Boxing/types.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSw/Java/Basics/Boxing/types.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DS/Java/Basics/Java/Abstract.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSw/Java/Basics/Java/Abstract.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DS/Java/Basics/Java/BreakStatement.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSw/Java/Basics/Java/BreakStatement.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DS/Java/Basics/Java/Constructor.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSw/Java/Basics/Java/Constructor.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DS/Java/Basics/Java/Default_values_of_Variable.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSw/Java/Basics/Java/Default_values_of_Variable.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DS/Java/Basics/Java/Files.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSw/Java/Basics/Java/Files.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DS/Java/Basics/Java/Funct.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSw/Java/Basics/Java/Funct.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DS/Java/Basics/Java/Reference$Engines.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSw/Java/Basics/Java/Reference$Engines.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DS/Java/Basics/Java/Reference.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSw/Java/Basics/Java/Reference.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DS/Java/Basics/Java/StaticMethods.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSw/Java/Basics/Java/StaticMethods.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DS/Java/Basics/Java/absta.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSw/Java/Basics/Java/absta.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DS/Java/Basics/Java/finalizes.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSw/Java/Basics/Java/finalizes.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DS/Java/Basics/Java/variabl.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSw/Java/Basics/Java/variabl.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DS/Java/Basics/Loops/DoWhile.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSw/Java/Basics/Loops/DoWhile.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DS/Java/Basics/Loops/LoopCheck.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSw/Java/Basics/Loops/LoopCheck.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DS/Java/Basics/Loops/Loops.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSw/Java/Basics/Loops/Loops.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DS/Java/Basics/Loops/LoopsStatement.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSw/Java/Basics/Loops/LoopsStatement.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DS/Java/Basics/Loops/NestedLoops.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSw/Java/Basics/Loops/NestedLoops.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DS/Java/Basics/Loops/forloop.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSw/Java/Basics/Loops/ForLoop.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DS/Java/Basics/Loops/whileLoop.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSw/Java/Basics/Loops/whileLoop.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DS/Java/Basics/OOPS/Abstraction/Abstract.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSw/Java/Basics/OOPS/Abstraction/Abstract.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DS/Java/Basics/OOPS/Abstraction/Inter1$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSw/Java/Basics/OOPS/Abstraction/Inter1$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DS/Java/Basics/OOPS/Abstraction/Inter1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSw/Java/Basics/OOPS/Abstraction/Inter1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DS/Java/Basics/OOPS/Abstraction/Interface.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSw/Java/Basics/OOPS/Abstraction/Interface.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DS/Java/Basics/OOPS/Abstraction/SingleTon.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSw/Java/Basics/OOPS/Abstraction/SingleTon.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DS/Java/Basics/OOPS/Abstraction/a.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSw/Java/Basics/OOPS/Abstraction/a.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DS/Java/Basics/OOPS/Abstraction/absclass.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSw/Java/Basics/OOPS/Abstraction/absclass.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DS/Java/Basics/OOPS/Abstraction/interfaces.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSw/Java/Basics/OOPS/Abstraction/interfaces.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DS/Java/Basics/OOPS/Abstraction/subclass$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSw/Java/Basics/OOPS/Abstraction/subclass$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DS/Java/Basics/OOPS/Abstraction/subclass.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSw/Java/Basics/OOPS/Abstraction/subclass.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DS/Java/Basics/OOPS/Encapsulation/Private$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSw/Java/Basics/OOPS/Encapsulation/Private$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DS/Java/Basics/OOPS/Encapsulation/Private$vis.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSw/Java/Basics/OOPS/Encapsulation/Private$vis.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DS/Java/Basics/OOPS/Encapsulation/Private.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSw/Java/Basics/OOPS/Encapsulation/Private.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DS/Java/Basics/OOPS/Encapsulation/Up_casting.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSw/Java/Basics/OOPS/Encapsulation/Up_casting.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DS/Java/Basics/OOPS/Encapsulation/sub.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSw/Java/Basics/OOPS/Encapsulation/sub.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DS/Java/Basics/OOPS/Home.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSw/Java/Basics/OOPS/Home.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DS/Java/Basics/OOPS/Img/need-of-object-oriented-programming-10-1024.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSw/Java/Basics/OOPS/Img/need-of-object-oriented-programming-10-1024.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DS/Java/Basics/OOPS/Img/need-of-object-oriented-programming-13-1024.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSw/Java/Basics/OOPS/Img/need-of-object-oriented-programming-13-1024.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DS/Java/Basics/OOPS/Img/need-of-object-oriented-programming-16-1024.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSw/Java/Basics/OOPS/Img/need-of-object-oriented-programming-16-1024.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DS/Java/Basics/OOPS/Img/need-of-object-oriented-programming-18-1024.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSw/Java/Basics/OOPS/Img/need-of-object-oriented-programming-18-1024.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DS/Java/Basics/OOPS/Img/need-of-object-oriented-programming-20-1024.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSw/Java/Basics/OOPS/Img/need-of-object-oriented-programming-20-1024.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DS/Java/Basics/OOPS/Img/need-of-object-oriented-programming-22-1024.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSw/Java/Basics/OOPS/Img/need-of-object-oriented-programming-22-1024.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DS/Java/Basics/OOPS/Img/need-of-object-oriented-programming-23-1024.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSw/Java/Basics/OOPS/Img/need-of-object-oriented-programming-23-1024.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DS/Java/Basics/OOPS/Img/need-of-object-oriented-programming-25-1024.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSw/Java/Basics/OOPS/Img/need-of-object-oriented-programming-25-1024.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DS/Java/Basics/OOPS/Img/need-of-object-oriented-programming-6-1024.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSw/Java/Basics/OOPS/Img/need-of-object-oriented-programming-6-1024.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DS/Java/Basics/OOPS/Img/need-of-object-oriented-programming-8-1024.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSw/Java/Basics/OOPS/Img/need-of-object-oriented-programming-8-1024.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DS/Java/Basics/OOPS/Img/need-of-object-oriented-programming-9-1024.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSw/Java/Basics/OOPS/Img/need-of-object-oriented-programming-9-1024.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DS/Java/Basics/OOPS/Img/object-oriented-programming-concepts-7-1024.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSw/Java/Basics/OOPS/Img/object-oriented-programming-concepts-7-1024.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DS/Java/Basics/OOPS/Img/procedural-vs-object-oriented-programming-9-638.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSw/Java/Basics/OOPS/Img/procedural-vs-object-oriented-programming-9-638.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DS/Java/Basics/OOPS/Inheritance/House.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSw/Java/Basics/OOPS/Inheritance/House.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DS/Java/Basics/OOPS/Inheritance/Inheritance.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSw/Java/Basics/OOPS/Inheritance/Inheritance.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DS/Java/Basics/OOPS/Inheritance/Super.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSw/Java/Basics/OOPS/Inheritance/Super.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DS/Java/Basics/OOPS/Inheritance/base.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSw/Java/Basics/OOPS/Inheritance/base.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DS/Java/Basics/OOPS/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSw/Java/Basics/OOPS/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DS/Java/Basics/OOPS/Polymorphism/A.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSw/Java/Basics/OOPS/Polymorphism/A.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DS/Java/Basics/OOPS/Polymorphism/Final.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSw/Java/Basics/OOPS/Polymorphism/Final.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DS/Java/Basics/OOPS/Polymorphism/Overriding.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSw/Java/Basics/OOPS/Polymorphism/Overriding.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DS/Java/Basics/OOPS/Polymorphism/Run.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSw/Java/Basics/OOPS/Polymorphism/Run.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DS/Java/Basics/OOPS/Polymorphism/fin.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSw/Java/Basics/OOPS/Polymorphism/fin.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DS/Java/Basics/OOPS/Polymorphism/over.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DS/Java/Basics/OOPS/Polymorphism/runs.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSw/Java/Basics/OOPS/Polymorphism/runs.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DS/Java/Basics/OOPS/Rooms.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSw/Java/Basics/OOPS/Rooms.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DS/Java/Basics/Operators/ModulusOperator.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSw/Java/Basics/Operators/ModulusOperator.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DS/Java/Basics/Operators/Operators.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSw/Java/Basics/Operators/Operators.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DS/Java/Basics/Operators/ReturnStatement.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSw/Java/Basics/Operators/ReturnStatement.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DS/Java/Basics/Prob/Armstrong.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSw/Java/Basics/Prob/Armstrong.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DS/Java/Basics/Prob/Ch.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSw/Java/Basics/Prob/Ch.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DS/Java/Basics/Prob/Decimal.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSw/Java/Basics/Prob/Decimal.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DS/Java/Basics/Prob/Duplicate_string.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSw/Java/Basics/Prob/Duplicate_string.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DS/Java/Basics/Prob/Factorial.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSw/Java/Basics/Prob/Factorial.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DS/Java/Basics/Prob/GCD.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSw/Java/Basics/Prob/GCD.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DS/Java/Basics/Prob/IO_int_or_not.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSw/Java/Basics/Prob/IO_int_or_not.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DS/Java/Basics/Prob/Inner_class$1inner.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSw/Java/Basics/Prob/Inner_class$1inner.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DS/Java/Basics/Prob/Inner_class.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSw/Java/Basics/Prob/Inner_class.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DS/Java/Basics/Prob/Permutation.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSw/Java/Basics/Prob/Permutation.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DS/Java/Basics/Prob/Prime1_100.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSw/Java/Basics/Prob/Prime1_100.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DS/Java/Basics/Prob/Private.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSw/Java/Basics/Prob/Private.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DS/Java/Basics/Prob/Recursion.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSw/Java/Basics/Prob/Recursion.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DS/Java/Basics/Prob/Vowels.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSw/Java/Basics/Prob/Vowels.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DS/Java/Basics/Prob/a.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSw/Java/Basics/Prob/a.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DS/Java/Basics/Prob/addOperator.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSw/Java/Basics/Prob/addOperator.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DS/Java/Basics/Prob/b.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSw/Java/Basics/Prob/b.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DS/Java/Basics/Prob/c.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSw/Java/Basics/Prob/c.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DS/Java/Basics/Prob/d.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSw/Java/Basics/Prob/d.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DS/Java/Basics/Prob/ext.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSw/Java/Basics/Prob/ext.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DS/Java/Basics/Prob/rec.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSw/Java/Basics/Prob/rec.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DS/Java/Basics/Prob/trest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSw/Java/Basics/Prob/trest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DS/Java/Basics/Strings/ElementCalculation.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSw/Java/Basics/Strings/ElementCalculation.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DS/Java/Basics/Strings/Immutable_String.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSw/Java/Basics/Strings/Immutable_String.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DS/Java/Basics/Strings/Methods.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSw/Java/Basics/Strings/Methods.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DS/Java/Basics/Strings/ReferenceVariable.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSw/Java/Basics/Strings/ReferenceVariable.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DS/Java/Basics/Strings/StringMethod.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSw/Java/Basics/Strings/StringMethod.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DS/Java/Basics/Strings/String_for.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSw/Java/Basics/Strings/String_for.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DS/Java/Basics/Strings/Stringlength.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSw/Java/Basics/Strings/Stringlength.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DS/Java/Basics/Strings/WordReverse.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSw/Java/Basics/Strings/WordReverse.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DS/Java/Basics/Variables/Modifiers.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSw/Java/Basics/Variables/Modifiers.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DS/Java/Basics/Variables/Variables$acces.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSw/Java/Basics/Variables/Variables$acces.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DS/Java/Basics/Variables/Variables.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSw/Java/Basics/Variables/Variables.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DS/Java/Basics/Variables/foot.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSw/Java/Basics/Variables/foot.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DS/Java/Basics/Variables/vis.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSw/Java/Basics/Variables/vis.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DS/Junit/AssertionTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSw/Junit/AssertionTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DS/Junit/AssertionTestTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DS/Junit/TestCalculator.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSw/Junit/TestCalculator.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DS/Palindrome.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSw/Palindrome.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DS/Programs/Atom.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSw/Programs/Atom.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DS/Programs/Fibonacci.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSw/Programs/Fibonacci.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DS/Programs/Fibonacci1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSw/Programs/Fibonacci1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DS/Programs/LargestNo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSw/Programs/LargestNo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DS/Programs/Palindrome.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSw/Programs/Palindrome.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DS/Programs/Palindrome2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSw/Programs/Palindrome2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DS/Programs/Pattern.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSw/Programs/Pattern.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DS/Programs/Prime_No_Ornot.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSw/Programs/Prime_No_Ornot.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DS/Zoho/Basic/JavaCls/subclass.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSw/Zoho/Basic/JavaCls/subclass.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DS/Zoho/Basic/JavaCls/variables$vishnu.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSw/Zoho/Basic/JavaCls/variables$vishnu.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DS/Zoho/Basic/JavaCls/variables.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSw/Zoho/Basic/JavaCls/variables.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DS/Zoho/Basics/Arrays/Arrays.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSw/Zoho/Basics/Arrays/Arrays.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DS/Zoho/Basics/Arrays/StringArrays.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSw/Zoho/Basics/Arrays/StringArrays.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DS/Zoho/Basics/Java/Abstract.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSw/Zoho/Basics/Java/Abstract.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DS/Zoho/Basics/Java/Funct.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSw/Zoho/Basics/Java/Funct.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DS/Zoho/Basics/Java/StaticMethods.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSw/Zoho/Basics/Java/StaticMethods.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DS/Zoho/Basics/Java/absta.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSw/Zoho/Basics/Java/absta.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DS/Zoho/Basics/Java/variabl.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSw/Zoho/Basics/Java/variabl.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DS/Zoho/Basics/Loops/DoWhile.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSw/Zoho/Basics/Loops/DoWhile.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DS/Zoho/Basics/Loops/Loops.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSw/Zoho/Basics/Loops/Loops.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DS/Zoho/Basics/Loops/forloop.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DS/Zoho/Basics/Loops/whileloop.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSw/Zoho/Basics/Loops/whileloop.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DS/Zoho/Basics/OOPS/House.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSw/Zoho/Basics/OOPS/House.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DS/Zoho/Basics/OOPS/Inheritance.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSw/Zoho/Basics/OOPS/Inheritance.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DS/Zoho/Basics/OOPS/Super.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSw/Zoho/Basics/OOPS/Super.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DS/Zoho/Basics/OOPS/base.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSw/Zoho/Basics/OOPS/base.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DS/Zoho/Basics/Operators/Operators.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSw/Zoho/Basics/Operators/Operators.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DS/Zoho/Basics/Variables/Modifiers.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSw/Zoho/Basics/Variables/Modifiers.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DS/Zoho/Basics/Variables/Variables$acces.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSw/Zoho/Basics/Variables/Variables$acces.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DS/Zoho/Basics/Variables/Variables.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSw/Zoho/Basics/Variables/Variables.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DS/Zoho/Basics/Variables/foot.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSw/Zoho/Basics/Variables/foot.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DS/Zoho/Basics/Variables/vis.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSw/Zoho/Basics/Variables/vis.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Java/Advanced/Exceptions/ThrowsTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Java/Advanced/Exceptions/ThrowsTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Junit/AssertionTestTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Junit/AssertionTestTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSw/Java.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSw/Java/Basics/Strings/ReferenceVariable.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSw/Java/Basics/Strings/ReferenceVariable.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSw/Java/Basics/Strings/StringMethod.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSw/Java/Basics/Strings/StringMethod.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DataStructure_and_Algorithm/HackerRank/Days_30/HelloWorld.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DataStructure_and_Algorithm/HackerRank/Days_30/HelloWorld.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Java.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Java/Basics/Strings/ReferenceVariable.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Java/Basics/Strings/StringMethod.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Java/Basics/Strings/StringMethod.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -274,77 +32,69 @@
     <session id="1878213171">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="1" />
+          <entry key="project.closed" value="9" />
+          <entry key="project.open.time.0" value="1" />
           <entry key="project.open.time.4" value="1" />
+          <entry key="project.open.time.40" value="1" />
+          <entry key="project.open.time.42" value="1" />
           <entry key="project.open.time.48" value="1" />
-          <entry key="project.opened" value="2" />
+          <entry key="project.open.time.66" value="1" />
+          <entry key="project.open.time.78" value="2" />
+          <entry key="project.opened" value="9" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
+          <entry key="Weighted_mean" value="1" />
           <entry key="class" value="1" />
-          <entry key="gitignore" value="2" />
-          <entry key="java" value="11" />
-          <entry key="txt" value="1" />
+          <entry key="gitignore" value="4" />
+          <entry key="java" value="30" />
+          <entry key="js" value="1" />
+          <entry key="txt" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="CLASS" value="1" />
-          <entry key="JAVA" value="11" />
-          <entry key="PLAIN_TEXT" value="3" />
+          <entry key="JAVA" value="30" />
+          <entry key="JavaScript" value="1" />
+          <entry key="PLAIN_TEXT" value="7" />
+          <entry key="UML" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="gitignore" value="29" />
-          <entry key="java" value="388" />
+          <entry key="gitignore" value="57" />
+          <entry key="java" value="1841" />
+          <entry key="txt" value="24" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="388" />
-          <entry key="PLAIN_TEXT" value="29" />
+          <entry key="JAVA" value="1841" />
+          <entry key="PLAIN_TEXT" value="81" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/DataStructure_and_Algorithm/HackerRank/Day_10/Median.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="325">
-              <caret line="20" column="35" selection-start-line="20" selection-start-column="35" selection-end-line="20" selection-end-column="35" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/.gitignore">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
-              <caret line="1" column="9" lean-forward="true" selection-start-line="1" selection-start-column="9" selection-end-line="1" selection-end-column="9" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Java.txt">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="JavaScript File" />
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>wired</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>weird</replace>
+    </replaceStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -356,7 +106,20 @@
         <option value="$PROJECT_DIR$/src/Java/Advanced/Exceptions/ThrowsTest.java" />
         <option value="$PROJECT_DIR$/src/DataStructure_and_Algorithm/HackerRank/Median.java" />
         <option value="$PROJECT_DIR$/src/DataStructure_and_Algorithm/HackerRank/Days_30/helloworld.java" />
+        <option value="$PROJECT_DIR$/src/DataStructure_and_Algorithm/HackerRank/Day_10/Median.java" />
         <option value="$PROJECT_DIR$/src/DataStructure_and_Algorithm/HackerRank/Days_30/HelloWorld.java" />
+        <option value="$PROJECT_DIR$/src/DataStructure_and_Algorithm/HackerRank/Java/if_else.java" />
+        <option value="$PROJECT_DIR$/src/DataStructure_and_Algorithm/HackerRank/Day_10/Weighted_mean.js" />
+        <option value="$PROJECT_DIR$/src/DataStructure_and_Algorithm/HackerRank/Day_10/Weighted_mean.java" />
+        <option value="$PROJECT_DIR$/src/Java/Basics/Strings/StringMethod.java" />
+        <option value="$PROJECT_DIR$/src/DataStructure_and_Algorithm/HackerRank/Java/std2.java" />
+        <option value="$PROJECT_DIR$/src/DataStructure_and_Algorithm/HackerRank/Java/std.java" />
+        <option value="$PROJECT_DIR$/src/Java/Basics/Strings/ReferenceVariable.java" />
+        <option value="$PROJECT_DIR$/src/DataStructure_and_Algorithm/HackerRank/Java/f.java" />
+        <option value="$PROJECT_DIR$/src/DataStructure_and_Algorithm/HackerRank/Java/Solution.java" />
+        <option value="$PROJECT_DIR$/src/DataStructure_and_Algorithm/HackerRank/Java/Int_String.java" />
+        <option value="$PROJECT_DIR$/yoo.java" />
+        <option value="$PROJECT_DIR$/Java.txt" />
         <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
@@ -381,6 +144,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -397,9 +162,7 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
       <pane id="AndroidView" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -408,12 +171,15 @@
     <property name="Repository.Attach.Sources" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547353926671" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547962997336" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Vishnu Thamizharasan\Documents\Vishnu\IntelIJ\DSw" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Vishnu Thamizharasan\Documents\Vishnu\IntelIJ\DSw\src\DataStructure_and_Algorithm" />
     </key>
@@ -430,13 +196,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.HelloWorld">
-    <configuration name="HelloWorld" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DataStructure_and_Algorithm.HackerRank.Days_30.HelloWorld" />
+  <component name="RunManager" selected="Application.ReferenceVariable">
+    <configuration name="ReferenceVariable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Java.Basics.Strings.ReferenceVariable" />
       <module name="DSw" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="DataStructure_and_Algorithm.HackerRank.Days_30.*" />
+          <option name="PATTERN" value="Java.Basics.Strings.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -444,8 +210,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Median" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DataStructure_and_Algorithm.HackerRank.Day_10.Median" />
+    <configuration name="StringMethod" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Java.Basics.Strings.StringMethod" />
+      <module name="DSw" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Java.Basics.Strings.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Weighted_mean" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DataStructure_and_Algorithm.HackerRank.Day_10.Weighted_mean" />
       <module name="DSw" />
       <extension name="coverage">
         <pattern>
@@ -457,12 +236,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="classe" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Basics.classe" />
+    <configuration name="if_else" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DataStructure_and_Algorithm.HackerRank.Java.if_else" />
       <module name="DSw" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Basics.*" />
+          <option name="PATTERN" value="DataStructure_and_Algorithm.HackerRank.Java.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="std" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DataStructure_and_Algorithm.HackerRank.Java.std" />
+      <module name="DSw" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="DataStructure_and_Algorithm.HackerRank.Java.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -471,15 +263,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.classe" />
-      <item itemvalue="Application.Median" />
-      <item itemvalue="Application.HelloWorld" />
+      <item itemvalue="Application.Weighted_mean" />
+      <item itemvalue="Application.if_else" />
+      <item itemvalue="Application.std" />
+      <item itemvalue="Application.StringMethod" />
+      <item itemvalue="Application.ReferenceVariable" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.HelloWorld" />
-        <item itemvalue="Application.Median" />
-        <item itemvalue="Application.classe" />
+        <item itemvalue="Application.ReferenceVariable" />
+        <item itemvalue="Application.std" />
+        <item itemvalue="Application.StringMethod" />
+        <item itemvalue="Application.if_else" />
+        <item itemvalue="Application.Weighted_mean" />
       </list>
     </recent_temporary>
   </component>
@@ -494,17 +290,23 @@
       <option name="presentableId" value="Default" />
       <updated>1547315110628</updated>
       <workItem from="1547315114501" duration="5921000" />
-      <workItem from="1547429174714" duration="473000" />
+      <workItem from="1547429174714" duration="3150000" />
+      <workItem from="1547523622266" duration="1351000" />
+      <workItem from="1547602964529" duration="3631000" />
+      <workItem from="1547689532965" duration="4022000" />
+      <workItem from="1547776998380" duration="1573000" />
+      <workItem from="1547955787526" duration="6252000" />
+      <workItem from="1547967252719" duration="674000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6394000" />
+    <option name="totallyTimeSpent" value="26574000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2397882" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26626325" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -513,16 +315,16 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.6800303" weight="0.3289689" />
-      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49924356" weight="0.39934534" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.6369138" weight="0.3289689" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.4977307" weight="0.39934534" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="9" sideWeight="0.5839637" visible="true" weight="0.2536825" />
-      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.4160363" side_tool="true" visible="true" weight="0.2536825" />
-      <window_info anchor="bottom" id="Messages" order="11" sideWeight="0.49924356" weight="0.3289689" />
+      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.580938" visible="true" weight="0.2536825" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.41906202" side_tool="true" visible="true" weight="0.2536825" />
+      <window_info anchor="bottom" id="Messages" order="11" sideWeight="0.49848714" weight="0.3289689" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -580,30 +382,166 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/DataStructure_and_Algorithm/HackerRank/Days_30/HelloWorld.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/DataStructure_and_Algorithm/HackerRank/Day_10/Median.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="325">
-          <caret line="20" column="35" selection-start-line="20" selection-start-column="35" selection-end-line="20" selection-end-column="35" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="223">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Java.txt">
-      <provider selected="true" editor-type-id="text-editor" />
+    <entry file="uml://JAVA/DataStructure_and_Algorithm.HackerRank.Day_10.Weighted_mean">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>DataStructure_and_Algorithm.HackerRank.Day_10.Weighted_mean</OriginalElement>
+          <nodes>
+            <node x="0.0" y="0.0">DataStructure_and_Algorithm.HackerRank.Day_10.Weighted_mean</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="-185.0" y="-23.0" />
+          <SelectedNodes />
+          <Categories>
+            <Category>Fields</Category>
+            <Category>Constructors</Category>
+            <Category>Methods</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DataStructure_and_Algorithm/HackerRank/Day_10/Weighted_mean.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DataStructure_and_Algorithm/HackerRank/Java/if_else.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="172">
+          <caret line="15" column="44" lean-forward="true" selection-start-line="15" selection-start-column="44" selection-end-line="15" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DataStructure_and_Algorithm/HackerRank/Day_10/Weighted_mean.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="25" column="36" lean-forward="true" selection-start-line="25" selection-start-column="36" selection-end-line="25" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Java/Basics/Strings/Stringlength.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-168">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_144/src.zip!/java/util/Scanner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="25024">
+          <caret line="1532" column="18" selection-start-line="1532" selection-start-column="18" selection-end-line="1532" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Java/Basics/Strings/StringMethod.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="257">
+          <caret line="33" lean-forward="true" selection-start-line="33" selection-end-line="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DataStructure_and_Algorithm/HackerRank/Java/std2.java" />
+    <entry file="file://$PROJECT_DIR$/src/DataStructure_and_Algorithm/HackerRank/Java/std.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="33" lean-forward="true" selection-start-line="13" selection-start-column="33" selection-end-line="13" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DataStructure_and_Algorithm/HackerRank/Days_30/HelloWorld.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="19" lean-forward="true" selection-start-line="19" selection-start-column="19" selection-end-line="19" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Java/Basics/Strings/Methods.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Java/Basics/Strings/ElementCalculation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Java/Basics/Strings/Immutable_String.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Java/Basics/Strings/Int_to_String.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="26" selection-start-line="2" selection-start-column="26" selection-end-line="2" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DataStructure_and_Algorithm/HackerRank/Java/Int_String.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Java/Basics/Strings/String_for.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="87">
+          <caret line="29" column="9" lean-forward="true" selection-start-line="29" selection-start-column="9" selection-end-line="29" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/yoo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="16" selection-start-column="16" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yoo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="9" lean-forward="true" selection-start-line="1" selection-start-column="9" selection-end-line="1" selection-end-column="9" />
+        <state relative-caret-position="51">
+          <caret line="3" column="12" lean-forward="true" selection-start-line="3" selection-start-column="12" selection-end-line="3" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/tuv.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="16" selection-start-column="16" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Java.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="329">
+          <caret line="129" selection-start-line="129" selection-end-line="129" />
         </state>
       </provider>
     </entry>
