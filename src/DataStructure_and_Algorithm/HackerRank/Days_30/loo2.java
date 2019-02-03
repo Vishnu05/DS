@@ -14,11 +14,13 @@ public class loo2 {
             int n = in.nextInt();
 
             int temp = 0, k = 1, foo = 0;
-            temp=a+(b*k);
-            for (int j = 0; j < n; j++) {
-                temp=temp+(b*k);
-                System.out.print(temp-b+" ");
-                b+=b;
+            System.out.print(temp = (a + (b * k)));
+            System.out.print(" ");
+            for (int j = 1; j < n; j++) {
+                b += b;
+                temp = temp + (b * k);
+                System.out.print(temp + " ");
+
             }
             System.out.println();
         }
