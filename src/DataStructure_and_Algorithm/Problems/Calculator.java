@@ -15,7 +15,7 @@ public class Calculator {
     public int mul(int a, int b) {
 
         if (a == 0 || b == 0) {
-            return 1;
+            return 0;
         }
         return a * b;
     }
@@ -23,7 +23,7 @@ public class Calculator {
     public int divide(int a, int b) {
 
         if (a == 0 || b == 0) {
-            return 1;
+            return 0;
         }
         return a / b;
     }

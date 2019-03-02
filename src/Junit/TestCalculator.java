@@ -11,17 +11,19 @@ public class TestCalculator extends Calculator {
 
     @Test
     public void testAdd() {
+
         assertEquals(5, ob.add(2, 3));
     }
 
     @Test
     public void testSub() {
+
         assertEquals(5, ob.sub(10, 5));
     }
 
     @Test
     public void testMul() {
-        assertEquals(4, ob.mul(2, 2));
+        assertEquals(0, ob.mul(0, 2));
 
     }
 
