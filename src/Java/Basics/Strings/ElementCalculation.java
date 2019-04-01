@@ -35,7 +35,7 @@ public class ElementCalculation {
         hm.put("Li", new Double(6.941));
         hm.put("Be", new Double(9.0122));
         hm.put("B", new Double(10.811));
-        hm.put("C", new Double(12.0107));
+        hm.put("C", 12.0107);
         hm.put("N", new Double(14.0067));
         hm.put("O", new Double(15.9994));
         hm.put("F", new Double(18.9984));
@@ -135,7 +135,7 @@ public class ElementCalculation {
         hm.put("Rf", new Double(261));
         hm.put("Lr", new Double(262));
         hm.put("Db", new Double(262));
-        hm.put("Bh", new Double(264));
+        hm.put("Bh", 264d);
         hm.put("Sg", new Double(266));
         hm.put("Mt", new Double(268));
         hm.put("Rg", new Double(272));

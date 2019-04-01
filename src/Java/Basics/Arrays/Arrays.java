@@ -32,9 +32,9 @@ public class Arrays {
         }
     }
 
-    public static void main(int id){
+    public static void main(int id) {
 
-        int arr[]={1,2,8,4,7,9};
+        int arr[] = {1, 2, 8, 4, 7, 9};
         arr.clone();
 
     }
