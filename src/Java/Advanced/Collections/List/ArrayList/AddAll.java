@@ -18,7 +18,10 @@ public class AddAll {
         List<String> ob=new ArrayList<>();
         ob.addAll(obj);
 
-        System.out.println(ob);
+        System.out.println(ob.contains(1));
+        if(ob.get(1) ==  "") {
+
+        }
 
     }
 }
