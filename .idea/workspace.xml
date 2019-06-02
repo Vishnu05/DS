@@ -2,14 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1200b718-ac7b-48e9-a9b1-6ac2dbfc348f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/DataStructure_and_Algorithm/HackerRank/Java/Currency_Formatter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DataStructure_and_Algorithm/HackerRank/Java/JavaArrayList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DataStructure_and_Algorithm/HackerRank/Java/String_Tokens.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DataStructure_and_Algorithm/HackerRank/PS/Picking_Numbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DataStructure_and_Algorithm/HackerRank/PS/try_pratise.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DataStructure_and_Algorithm/HackerRank/PS/Electronic_Shops.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSw/Java/Advanced/Collections/List/ArrayList/AddAll.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSw/Java/Advanced/Collections/List/ArrayList/AddAll.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Java/Advanced/Collections/List/ArrayList/AddAll.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Java/Advanced/Collections/List/ArrayList/AddAll.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -47,8 +41,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/DataStructure_and_Algorithm/HackerRank/Java/JavaArrayList.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+            <state relative-caret-position="306">
+              <caret line="19" selection-start-line="19" selection-end-line="19" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -59,21 +53,32 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/DataStructure_and_Algorithm/HackerRank/Java/Currency_Formatter.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="293">
+            <state relative-caret-position="442">
               <caret line="27" column="29" selection-start-line="27" selection-start-column="29" selection-end-line="27" selection-end-column="29" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#828#844#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/DataStructure_and_Algorithm/HackerRank/Java/String_Tokens.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="203">
-              <caret line="21" column="24" lean-forward="true" selection-start-line="21" selection-start-column="24" selection-end-line="21" selection-end-column="24" />
+            <state relative-caret-position="373">
+              <caret line="23" column="29" selection-start-line="23" selection-start-column="29" selection-end-line="23" selection-end-column="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/DataStructure_and_Algorithm/HackerRank/PS/Electronic_Shops.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="208">
+              <caret line="79" column="25" selection-start-line="79" selection-start-column="25" selection-end-line="79" selection-end-column="25" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -103,6 +108,7 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>wired</find>
+      <find>729580</find>
     </findStrings>
     <replaceStrings>
       <replace>weird</replace>
@@ -114,7 +120,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/DataStructure_and_Algorithm/HackerRank/Days_30/pow.java" />
         <option value="$PROJECT_DIR$/src/DataStructure_and_Algorithm/HackerRank/Days_30/String_char.java" />
         <option value="$PROJECT_DIR$/src/DataStructure_and_Algorithm/HackerRank/Days_30/loo2.java" />
         <option value="$PROJECT_DIR$/src/DataStructure_and_Algorithm/HackerRank/Days_30/static_initializer.java" />
@@ -165,6 +170,7 @@
         <option value="$PROJECT_DIR$/src/DataStructure_and_Algorithm/HackerRank/Java/JavaArrayList.java" />
         <option value="$PROJECT_DIR$/src/DataStructure_and_Algorithm/HackerRank/Java/Currency_Formatter.java" />
         <option value="$PROJECT_DIR$/src/DataStructure_and_Algorithm/HackerRank/Java/String_Tokens.java" />
+        <option value="$PROJECT_DIR$/src/DataStructure_and_Algorithm/HackerRank/PS/Electronic_Shops.java" />
       </list>
     </option>
   </component>
@@ -188,8 +194,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -221,12 +225,14 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="DataStructure_and_Algorithm" type="462c0819:PsiDirectoryNode" />
               <item name="HackerRank" type="462c0819:PsiDirectoryNode" />
-              <item name="Java" type="462c0819:PsiDirectoryNode" />
+              <item name="PS" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -241,7 +247,7 @@
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
     <property name="create.test.in.the.same.root" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../list" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
@@ -277,7 +283,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.String_Tokens">
+  <component name="RunManager" selected="Application.Electronic_Shops">
     <configuration name="AddAll" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Java.Advanced.Collections.List.ArrayList.AddAll" />
       <module name="DSw" />
@@ -304,8 +310,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Picking_Numbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DataStructure_and_Algorithm.HackerRank.PS.Picking_Numbers" />
+    <configuration name="Electronic_Shops" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DataStructure_and_Algorithm.HackerRank.PS.Electronic_Shops" />
       <module name="DSw" />
       <extension name="coverage">
         <pattern>
@@ -348,19 +354,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Application.Picking_Numbers" />
       <item itemvalue="Application.try_pratise" />
       <item itemvalue="Application.AddAll" />
       <item itemvalue="Application.Currency_Formatter" />
       <item itemvalue="Application.String_Tokens" />
+      <item itemvalue="Application.Electronic_Shops" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Electronic_Shops" />
         <item itemvalue="Application.String_Tokens" />
         <item itemvalue="Application.Currency_Formatter" />
         <item itemvalue="Application.try_pratise" />
         <item itemvalue="Application.AddAll" />
-        <item itemvalue="Application.Picking_Numbers" />
       </list>
     </recent_temporary>
   </component>
@@ -438,7 +444,10 @@
       <workItem from="1558874757181" duration="7194000" />
       <workItem from="1559236274898" duration="1321000" />
       <workItem from="1559241495319" duration="1904000" />
-      <workItem from="1559361861340" duration="4105000" />
+      <workItem from="1559361861340" duration="5104000" />
+      <workItem from="1559372513892" duration="183000" />
+      <workItem from="1559373905908" duration="20000" />
+      <workItem from="1559470592965" duration="8869000" />
     </task>
     <servers />
   </component>
@@ -475,12 +484,13 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="156328000" />
+    <option name="totallyTimeSpent" value="166399000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2624811" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2375189" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -490,14 +500,14 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.55673224" visible="true" weight="0.32569557" />
-      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.5605144" weight="0.38625205" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.5605144" weight="0.39443535" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.49924356" weight="0.3289689" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.61119515" weight="0.34369886" />
-      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.43948564" side_tool="true" weight="0.38625205" />
+      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.580938" weight="0.2749591" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.41906202" side_tool="true" weight="0.34369886" />
       <window_info anchor="bottom" id="Messages" order="11" sideWeight="0.49848714" weight="0.3289689" />
       <window_info anchor="bottom" id="Docker" order="12" show_stripe_button="false" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -755,28 +765,88 @@
           <option name="timeStamp" value="67" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/DataStructure_and_Algorithm/HackerRank/Java/String_Tokens.java</url>
-          <line>15</line>
+          <url>file://$PROJECT_DIR$/src/DataStructure_and_Algorithm/HackerRank/PS/Electronic_Shops.java</url>
+          <line>45</line>
           <properties />
-          <option name="timeStamp" value="73" />
+          <option name="timeStamp" value="81" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/DataStructure_and_Algorithm/HackerRank/Java/String_Tokens.java</url>
-          <line>16</line>
+          <url>file://$PROJECT_DIR$/src/DataStructure_and_Algorithm/HackerRank/PS/Electronic_Shops.java</url>
+          <line>47</line>
           <properties />
-          <option name="timeStamp" value="74" />
+          <option name="timeStamp" value="82" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/DataStructure_and_Algorithm/HackerRank/Java/String_Tokens.java</url>
-          <line>18</line>
+          <url>file://$PROJECT_DIR$/src/DataStructure_and_Algorithm/HackerRank/PS/Electronic_Shops.java</url>
+          <line>46</line>
           <properties />
-          <option name="timeStamp" value="75" />
+          <option name="timeStamp" value="83" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/DataStructure_and_Algorithm/HackerRank/Java/String_Tokens.java</url>
-          <line>21</line>
+          <url>file://$PROJECT_DIR$/src/DataStructure_and_Algorithm/HackerRank/PS/Electronic_Shops.java</url>
+          <line>48</line>
           <properties />
-          <option name="timeStamp" value="76" />
+          <option name="timeStamp" value="84" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/DataStructure_and_Algorithm/HackerRank/PS/Electronic_Shops.java</url>
+          <line>35</line>
+          <properties />
+          <option name="timeStamp" value="85" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/DataStructure_and_Algorithm/HackerRank/PS/Electronic_Shops.java</url>
+          <line>36</line>
+          <properties />
+          <option name="timeStamp" value="86" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/DataStructure_and_Algorithm/HackerRank/PS/Electronic_Shops.java</url>
+          <line>38</line>
+          <properties />
+          <option name="timeStamp" value="87" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/DataStructure_and_Algorithm/HackerRank/PS/Electronic_Shops.java</url>
+          <line>37</line>
+          <properties />
+          <option name="timeStamp" value="88" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/DataStructure_and_Algorithm/HackerRank/PS/Electronic_Shops.java</url>
+          <line>78</line>
+          <properties />
+          <option name="timeStamp" value="89" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/DataStructure_and_Algorithm/HackerRank/PS/Electronic_Shops.java</url>
+          <line>23</line>
+          <properties />
+          <option name="timeStamp" value="92" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/DataStructure_and_Algorithm/HackerRank/PS/Electronic_Shops.java</url>
+          <line>22</line>
+          <properties />
+          <option name="timeStamp" value="93" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/DataStructure_and_Algorithm/HackerRank/PS/Electronic_Shops.java</url>
+          <line>51</line>
+          <properties />
+          <option name="timeStamp" value="94" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/DataStructure_and_Algorithm/HackerRank/PS/Electronic_Shops.java</url>
+          <line>52</line>
+          <properties />
+          <option name="timeStamp" value="95" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/DataStructure_and_Algorithm/HackerRank/PS/Electronic_Shops.java</url>
+          <line>55</line>
+          <properties />
+          <option name="timeStamp" value="96" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="javascript">
           <url>file://$PROJECT_DIR$/src/DataStructure_and_Algorithm/HackerRank/Java/element.js</url>
@@ -796,17 +866,18 @@
           </properties>
           <option name="timeStamp" value="64" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/DataStructure_and_Algorithm/HackerRank/PS/Electronic_Shops.java</url>
+          <line>10</line>
+          <properties class="DataStructure_and_Algorithm.HackerRank.PS.Electronic_Shops" method="shops">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="90" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/DataStructure_and_Algorithm/HackerRank/Days_30/Person.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="5" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/DataStructure_and_Algorithm/HackerRank/Days_30/static_initializer.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
@@ -1143,17 +1214,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Java/Advanced/Collections/List/ArrayList/AddAll.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="21" column="26" selection-start-line="21" selection-start-column="26" selection-end-line="21" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/DataStructure_and_Algorithm/HackerRank/Java/JavaArrayList.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+        <state relative-caret-position="306">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -1162,19 +1226,35 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/DataStructure_and_Algorithm/HackerRank/Java/Currency_Formatter.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="293">
+        <state relative-caret-position="442">
           <caret line="27" column="29" selection-start-line="27" selection-start-column="29" selection-end-line="27" selection-end-column="29" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#828#844#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Java/Advanced/Collections/List/ArrayList/AddAll.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="21" column="26" selection-start-line="21" selection-start-column="26" selection-end-line="21" selection-end-column="26" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/DataStructure_and_Algorithm/HackerRank/Java/String_Tokens.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="203">
-          <caret line="21" column="24" lean-forward="true" selection-start-line="21" selection-start-column="24" selection-end-line="21" selection-end-column="24" />
+        <state relative-caret-position="373">
+          <caret line="23" column="29" selection-start-line="23" selection-start-column="29" selection-end-line="23" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DataStructure_and_Algorithm/HackerRank/PS/Electronic_Shops.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="79" column="25" selection-start-line="79" selection-start-column="25" selection-end-line="79" selection-end-column="25" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
