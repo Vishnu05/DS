@@ -5,18 +5,19 @@ public class Reference {
     int issue;
     String issueName;
 
-   static class Engines{
+    static class Engines {
         Engines my;
-   }
-    public static void main(String args[]){
+    }
 
-        Reference obj=new Reference();
+    public static void main(String args[]) {
 
-        obj.issue=1;
-        obj.issueName="Reference variable ";
+        Reference obj = new Reference();
 
-      Engines  go=new Engines();
-        obj.issue=4;
+        obj.issue = 1;
+        obj.issueName = "Reference variable ";
+
+        Engines go = new Engines();
+        obj.issue = 4;
 
     }
 }

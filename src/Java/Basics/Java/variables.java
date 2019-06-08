@@ -1,4 +1,4 @@
-package Java.Basic.JavaCls;
+package Java.Basics.Java;
 
 public class variables {
 
@@ -16,7 +16,6 @@ public class variables {
     public String getName() {
         return name;
     }
-
 
 
     //strictfp String mood="Happpy";

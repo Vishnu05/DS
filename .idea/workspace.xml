@@ -2,8 +2,23 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1200b718-ac7b-48e9-a9b1-6ac2dbfc348f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/DataStructure_and_Algorithm/HackerRank/PS/Electronic_Shops.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DataStructure_and_Algorithm/HackerRank/Java/JavaHashSet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DataStructure_and_Algorithm/HackerRank/Java/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DataStructure_and_Algorithm/HackerRank/Java/String_Compare.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Java/Advanced/Collections/StackJava.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Java/Basics/Java/lang/CurrencyFormatter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Java/Basics/Java_lib/Calender_class.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSw/Java/Basic/JavaCls/subclass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSw/Java/Basic/JavaCls/variables$vishnu.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSw/Java/Basic/JavaCls/variables.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSw/Java/Basics/Java/Reference.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSw/Java/Basics/Java/Reference.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSw/Java/Basics/Java/StaticMethods.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSw/Java/Basics/Java/StaticMethods.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DataStructure_and_Algorithm/HackerRank/Java/Currency_Formatter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DataStructure_and_Algorithm/HackerRank/Java/Currency_Formatter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Java/Basics/Java/Abstract.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Java/Basics/Java/Abstract.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Java/Basics/Java/Reference.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Java/Basics/Java/Reference.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Java/Basics/Java/StaticMethods.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Java/Basics/Java/StaticMethods.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Java/Basics/Java/variables.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Java/Basics/Java/variables.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -18,19 +33,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/DataStructure_and_Algorithm/HackerRank/PS/Picking_Numbers.java">
+        <entry file="file://$PROJECT_DIR$/src/DataStructure_and_Algorithm/HackerRank/Java/String_Compare.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="19" column="13" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/DataStructure_and_Algorithm/HackerRank/PS/try_pratise.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="510">
-              <caret line="32" column="24" selection-start-line="32" selection-start-column="24" selection-end-line="32" selection-end-column="24" />
+            <state relative-caret-position="288">
+              <caret line="20" column="31" lean-forward="true" selection-start-line="20" selection-start-column="31" selection-end-line="20" selection-end-column="31" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -39,13 +45,19 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/DataStructure_and_Algorithm/HackerRank/Java/JavaArrayList.java">
+        <entry file="file://$PROJECT_DIR$/src/Java/Basics/Java/Files.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="19" selection-start-line="19" selection-end-line="19" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="272">
+              <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Java/Basics/Java/finalizes.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -53,8 +65,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/DataStructure_and_Algorithm/HackerRank/Java/Currency_Formatter.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="442">
-              <caret line="27" column="29" selection-start-line="27" selection-start-column="29" selection-end-line="27" selection-end-column="29" />
+            <state relative-caret-position="424">
+              <caret line="25" column="5" selection-start-line="25" selection-start-column="5" selection-end-line="25" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -63,31 +75,34 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/DataStructure_and_Algorithm/HackerRank/Java/String_Tokens.java">
+        <entry file="file://$PROJECT_DIR$/src/Java/Basics/Java/Funct.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="373">
-              <caret line="23" column="29" selection-start-line="23" selection-start-column="29" selection-end-line="23" selection-end-column="29" />
+            <state relative-caret-position="119">
+              <caret line="7" column="6" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Java/Basics/Java/lang/CurrencyFormatter.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="510">
+              <caret line="32" column="5" selection-start-line="32" selection-start-column="5" selection-end-line="32" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/DataStructure_and_Algorithm/HackerRank/PS/Electronic_Shops.java">
+        <entry file="file://$PROJECT_DIR$/src/DataStructure_and_Algorithm/HackerRank/Java/JavaHashSet.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="208">
-              <caret line="79" column="25" selection-start-line="79" selection-start-column="25" selection-end-line="79" selection-end-column="25" />
+            <state relative-caret-position="140">
+              <caret line="22" column="57" selection-start-line="22" selection-start-column="57" selection-end-line="22" selection-end-column="57" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Java/Advanced/Collections/List/ArrayList/AddAll.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="21" column="26" selection-start-line="21" selection-start-column="26" selection-end-line="21" selection-end-column="26" />
             </state>
           </provider>
         </entry>
@@ -120,17 +135,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/DataStructure_and_Algorithm/HackerRank/Days_30/String_char.java" />
-        <option value="$PROJECT_DIR$/src/DataStructure_and_Algorithm/HackerRank/Days_30/loo2.java" />
-        <option value="$PROJECT_DIR$/src/DataStructure_and_Algorithm/HackerRank/Days_30/static_initializer.java" />
-        <option value="$PROJECT_DIR$/src/DataStructure_and_Algorithm/HackerRank/Days_30/Person.java" />
-        <option value="$PROJECT_DIR$/src/DataStructure_and_Algorithm/HackerRank/Days_30/Inheritance.java" />
-        <option value="$PROJECT_DIR$/src/Junit/TestCalculator.java" />
-        <option value="$PROJECT_DIR$/src/DataStructure_and_Algorithm/Problems/Calculator.java" />
-        <option value="$PROJECT_DIR$/src/Junit/package.json" />
-        <option value="$PROJECT_DIR$/src/Junit/name.json" />
-        <option value="$PROJECT_DIR$/src/Junit/adasd.java" />
-        <option value="$PROJECT_DIR$/src/Junit/AssertionTestTest.java" />
         <option value="$PROJECT_DIR$/src/Junit/AssertionTestTests.java" />
         <option value="$PROJECT_DIR$/src/Junit/AssertionTest.java" />
         <option value="$PROJECT_DIR$/src/DataStructure_and_Algorithm/HackerRank/Days_30/fact.java" />
@@ -168,9 +172,20 @@
         <option value="$PROJECT_DIR$/src/DataStructure_and_Algorithm/HackerRank/PS/try_pratise.java" />
         <option value="$PROJECT_DIR$/src/DataStructure_and_Algorithm/HackerRank/Java/JavaArraylist.java" />
         <option value="$PROJECT_DIR$/src/DataStructure_and_Algorithm/HackerRank/Java/JavaArrayList.java" />
-        <option value="$PROJECT_DIR$/src/DataStructure_and_Algorithm/HackerRank/Java/Currency_Formatter.java" />
         <option value="$PROJECT_DIR$/src/DataStructure_and_Algorithm/HackerRank/Java/String_Tokens.java" />
         <option value="$PROJECT_DIR$/src/DataStructure_and_Algorithm/HackerRank/PS/Electronic_Shops.java" />
+        <option value="$PROJECT_DIR$/src/DataStructure_and_Algorithm/HackerRank/Java/Java_Exception_Handling.java" />
+        <option value="$PROJECT_DIR$/src/DataStructure_and_Algorithm/HackerRank/Java/Solution.java" />
+        <option value="$PROJECT_DIR$/src/Java/Basics/Java_lib/Calender_class.java" />
+        <option value="$PROJECT_DIR$/src/DataStructure_and_Algorithm/HackerRank/Java/String_Compare.java" />
+        <option value="$PROJECT_DIR$/src/Java/Basics/Java/StaticMethods.java" />
+        <option value="$PROJECT_DIR$/src/Java/Basics/Java/Reference.java" />
+        <option value="$PROJECT_DIR$/src/Java/Basics/Java/variables.java" />
+        <option value="$PROJECT_DIR$/src/Java/Basics/Java/Abstract.java" />
+        <option value="$PROJECT_DIR$/src/DataStructure_and_Algorithm/HackerRank/Java/Currency_Formatter.java" />
+        <option value="$PROJECT_DIR$/src/Java/Basics/Java/lang/CurrencyFormatter.java" />
+        <option value="$PROJECT_DIR$/src/DataStructure_and_Algorithm/HackerRank/Java/HashSet.java" />
+        <option value="$PROJECT_DIR$/src/DataStructure_and_Algorithm/HackerRank/Java/JavaHashSet.java" />
       </list>
     </option>
   </component>
@@ -194,6 +209,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -225,14 +241,43 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="DataStructure_and_Algorithm" type="462c0819:PsiDirectoryNode" />
               <item name="HackerRank" type="462c0819:PsiDirectoryNode" />
-              <item name="PS" type="462c0819:PsiDirectoryNode" />
+              <item name="Java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DS" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DS" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DS" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DS" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Java" type="462c0819:PsiDirectoryNode" />
+              <item name="Basics" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DS" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DS" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Java" type="462c0819:PsiDirectoryNode" />
+              <item name="Basics" type="462c0819:PsiDirectoryNode" />
+              <item name="Java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DS" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DS" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Java" type="462c0819:PsiDirectoryNode" />
+              <item name="Basics" type="462c0819:PsiDirectoryNode" />
+              <item name="Java" type="462c0819:PsiDirectoryNode" />
+              <item name="lang" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -283,13 +328,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Electronic_Shops">
-    <configuration name="AddAll" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Java.Advanced.Collections.List.ArrayList.AddAll" />
+  <component name="RunManager" selected="Application.JavaHashSet">
+    <configuration name="Calender_class" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Java.Basics.Java_lib.Calender_class" />
       <module name="DSw" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Java.Advanced.Collections.List.ArrayList.*" />
+          <option name="PATTERN" value="Java.Basics.Java_lib.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -297,12 +342,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Currency_Formatter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DataStructure_and_Algorithm.HackerRank.Java.Currency_Formatter" />
+    <configuration name="CurrencyFormatter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Java.Basics.Java.lang.CurrencyFormatter" />
       <module name="DSw" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="DataStructure_and_Algorithm.HackerRank.Java.*" />
+          <option name="PATTERN" value="Java.Basics.Java.lang.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -323,8 +368,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="String_Tokens" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DataStructure_and_Algorithm.HackerRank.Java.String_Tokens" />
+    <configuration name="JavaHashSet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DataStructure_and_Algorithm.HackerRank.Java.JavaHashSet" />
       <module name="DSw" />
       <extension name="coverage">
         <pattern>
@@ -336,12 +381,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="try_pratise" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DataStructure_and_Algorithm.HackerRank.PS.try_pratise" />
+    <configuration name="String_Compare" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DataStructure_and_Algorithm.HackerRank.Java.String_Compare" />
       <module name="DSw" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="DataStructure_and_Algorithm.HackerRank.PS.*" />
+          <option name="PATTERN" value="DataStructure_and_Algorithm.HackerRank.Java.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -354,19 +399,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Application.try_pratise" />
-      <item itemvalue="Application.AddAll" />
-      <item itemvalue="Application.Currency_Formatter" />
-      <item itemvalue="Application.String_Tokens" />
       <item itemvalue="Application.Electronic_Shops" />
+      <item itemvalue="Application.Calender_class" />
+      <item itemvalue="Application.String_Compare" />
+      <item itemvalue="Application.CurrencyFormatter" />
+      <item itemvalue="Application.JavaHashSet" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.JavaHashSet" />
+        <item itemvalue="Application.CurrencyFormatter" />
+        <item itemvalue="Application.String_Compare" />
+        <item itemvalue="Application.Calender_class" />
         <item itemvalue="Application.Electronic_Shops" />
-        <item itemvalue="Application.String_Tokens" />
-        <item itemvalue="Application.Currency_Formatter" />
-        <item itemvalue="Application.try_pratise" />
-        <item itemvalue="Application.AddAll" />
       </list>
     </recent_temporary>
   </component>
@@ -447,7 +492,11 @@
       <workItem from="1559361861340" duration="5104000" />
       <workItem from="1559372513892" duration="183000" />
       <workItem from="1559373905908" duration="20000" />
-      <workItem from="1559470592965" duration="8869000" />
+      <workItem from="1559470592965" duration="9936000" />
+      <workItem from="1559581538642" duration="752000" />
+      <workItem from="1559712452292" duration="6473000" />
+      <workItem from="1559750112111" duration="268000" />
+      <workItem from="1559981257694" duration="7676000" />
     </task>
     <servers />
   </component>
@@ -484,13 +533,13 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="166399000" />
+    <option name="totallyTimeSpent" value="182635000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2375189" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2526475" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -848,6 +897,54 @@
           <properties />
           <option name="timeStamp" value="96" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/DataStructure_and_Algorithm/HackerRank/PS/Electronic_Shops.java</url>
+          <line>50</line>
+          <properties />
+          <option name="timeStamp" value="97" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/DataStructure_and_Algorithm/HackerRank/PS/Electronic_Shops.java</url>
+          <line>79</line>
+          <properties />
+          <option name="timeStamp" value="98" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/DataStructure_and_Algorithm/HackerRank/Java/String_Compare.java</url>
+          <line>14</line>
+          <properties />
+          <option name="timeStamp" value="100" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/DataStructure_and_Algorithm/HackerRank/Java/String_Compare.java</url>
+          <line>15</line>
+          <properties />
+          <option name="timeStamp" value="101" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/DataStructure_and_Algorithm/HackerRank/Java/String_Compare.java</url>
+          <line>17</line>
+          <properties />
+          <option name="timeStamp" value="102" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/DataStructure_and_Algorithm/HackerRank/Java/String_Compare.java</url>
+          <line>26</line>
+          <properties />
+          <option name="timeStamp" value="105" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/DataStructure_and_Algorithm/HackerRank/Java/String_Compare.java</url>
+          <line>28</line>
+          <properties />
+          <option name="timeStamp" value="106" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/DataStructure_and_Algorithm/HackerRank/Java/String_Compare.java</url>
+          <line>20</line>
+          <properties />
+          <option name="timeStamp" value="108" />
+        </line-breakpoint>
         <line-breakpoint enabled="true" type="javascript">
           <url>file://$PROJECT_DIR$/src/DataStructure_and_Algorithm/HackerRank/Java/element.js</url>
           <line>5</line>
@@ -878,109 +975,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/DataStructure_and_Algorithm/HackerRank/Days_30/static_initializer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/DataStructure_and_Algorithm/HackerRank/Days_30/Inheritance.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="291">
-          <caret line="46" column="13" selection-start-line="46" selection-start-column="13" selection-end-line="46" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Junit/package.json" />
-    <entry file="file://$PROJECT_DIR$/src/Junit/adasd.java" />
-    <entry file="file://$PROJECT_DIR$/src/Junit/name.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="1" lean-forward="true" selection-start-line="3" selection-start-column="1" selection-end-line="3" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Junit/TestCalculator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="14" column="38" selection-start-line="14" selection-start-column="38" selection-end-line="14" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Junit/AssertionTestTests.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="14" column="1" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Junit/AssertionTestTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" selection-start-line="2" selection-end-line="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/DataStructure_and_Algorithm/Problems/Calculator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="25" column="20" selection-start-line="25" selection-start-column="20" selection-end-line="25" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Junit/AssertionTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/DataStructure_and_Algorithm/HackerRank/Days_30/fact.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="476">
-          <caret line="28" column="48" lean-forward="true" selection-start-line="28" selection-start-column="48" selection-end-line="28" selection-end-column="48" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/DataStructure_and_Algorithm/HackerRank/Java/Int_String.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="4" column="23" lean-forward="true" selection-start-line="4" selection-start-column="23" selection-end-line="4" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/DataStructure_and_Algorithm/HackerRank/Java/if_else.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="20" column="40" lean-forward="true" selection-start-line="20" selection-start-column="40" selection-end-line="20" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Java/Basics/Java_lib/math_func.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="9" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/DataStructure_and_Algorithm/HackerRank/Java/Anagrams.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="26" column="16" selection-start-line="26" selection-start-column="16" selection-end-line="26" selection-end-column="16" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/DataStructure_and_Algorithm/HackerRank/Java/String_intro.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" selection-start-line="16" selection-end-line="16" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/DataStructure_and_Algorithm/HackerRank/Java/min_max_sum.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
@@ -1224,10 +1218,34 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/DataStructure_and_Algorithm/HackerRank/Java/Currency_Formatter.java">
+    <entry file="file://$PROJECT_DIR$/src/DataStructure_and_Algorithm/HackerRank/Java/String_Tokens.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="442">
-          <caret line="27" column="29" selection-start-line="27" selection-start-column="29" selection-end-line="27" selection-end-column="29" />
+        <state relative-caret-position="391">
+          <caret line="23" column="29" selection-start-line="23" selection-start-column="29" selection-end-line="23" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DataStructure_and_Algorithm/HackerRank/PS/Electronic_Shops.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1241">
+          <caret line="76" column="36" selection-start-line="76" selection-start-column="36" selection-end-line="76" selection-end-column="36" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Java/Advanced/Collections/StackJava.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DataStructure_and_Algorithm/HackerRank/Java/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="18" column="33" selection-start-line="18" selection-start-column="33" selection-end-line="18" selection-end-column="33" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -1241,17 +1259,122 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/DataStructure_and_Algorithm/HackerRank/Java/String_Tokens.java">
+    <entry file="file://$PROJECT_DIR$/src/Java/Basics/Java_lib/Calender_class.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="373">
-          <caret line="23" column="29" selection-start-line="23" selection-start-column="29" selection-end-line="23" selection-end-column="29" />
+        <state relative-caret-position="272">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/DataStructure_and_Algorithm/HackerRank/PS/Electronic_Shops.java">
+    <entry file="file://$PROJECT_DIR$/src/DataStructure_and_Algorithm/HackerRank/Java/Int_String.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="208">
-          <caret line="79" column="25" selection-start-line="79" selection-start-column="25" selection-end-line="79" selection-end-column="25" />
+        <state relative-caret-position="85">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Java/Basics/Java/StaticMethods.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Java/Basics/Java/Reference.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="23" selection-start-line="23" selection-end-line="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Java/Basics/Java/variables.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="5" lean-forward="true" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
+          <folding>
+            <element signature="e#107#108#0" expanded="true" />
+            <element signature="e#139#140#0" expanded="true" />
+            <element signature="e#270#271#0" expanded="true" />
+            <element signature="e#297#298#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Java/Basics/Java/Abstract.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Java/Basics/Java/absta.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="19" lean-forward="true" selection-start-line="16" selection-start-column="19" selection-end-line="16" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DSw.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DataStructure_and_Algorithm/HackerRank/Java/String_Compare.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="20" column="31" lean-forward="true" selection-start-line="20" selection-start-column="31" selection-end-line="20" selection-end-column="31" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Java/Basics/Java/Files.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Java/Basics/Java/finalizes.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Java/Basics/Java/Funct.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="6" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DataStructure_and_Algorithm/HackerRank/Java/Currency_Formatter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="424">
+          <caret line="25" column="5" selection-start-line="25" selection-start-column="5" selection-end-line="25" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Java/Basics/Java/lang/CurrencyFormatter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="32" column="5" selection-start-line="32" selection-start-column="5" selection-end-line="32" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DataStructure_and_Algorithm/HackerRank/Java/JavaHashSet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="22" column="57" selection-start-line="22" selection-start-column="57" selection-end-line="22" selection-end-column="57" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

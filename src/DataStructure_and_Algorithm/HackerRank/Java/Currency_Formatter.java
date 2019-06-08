@@ -5,27 +5,23 @@ import java.util.*;
 
 public class Currency_Formatter {
 
-    static Scanner scan = new Scanner(System.in);
+    static void currency(String s, Locale locale, double d) {
 
+        NumberFormat nf = NumberFormat.getCurrencyInstance(locale);
+        String ss = nf.format(d);
+        System.out.println(s + " " + ss);
+    }
+
+    static Scanner scan = new Scanner(System.in);
     public static void main(String[] args) {
 
-//        double d = scan.nextDouble();
+        double d = scan.nextDouble();
+        Locale in = new Locale("en","IN");
+        currency("US:", Locale.US, d);
+        currency("India:", in, d);
+        currency("China:", Locale.CHINA, d);
+        currency("France:", Locale.FRANCE, d);
 
-        NumberFormat nf = NumberFormat.getCurrencyInstance(Locale.US);
-//        d = nf.parse()
-
-        String s = "welcometojava";
-        String [] ss = s.split("", 3);
-        for (String i : ss ) {
-            System.out.println(i);
-        }
-
-        String ws = "          Hello         how are            you       ";
-        /** Trim only removes front and end white spaces it doesn't remove in between*/
-        ws = ws.trim();
-        System.out.println(ws);
-        ws = ws.replaceAll("\\s+", " ");
-        System.out.println(ws);
-        SortedMap<Integer,String> sm = new TreeMap<Integer,String>();
+        scan.close();
     }
 }

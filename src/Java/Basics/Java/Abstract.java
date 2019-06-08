@@ -3,6 +3,8 @@ package Java.Basics.Java;
 public interface Abstract {
 
     public void addfunction();
-  abstract void subfun();
+
+    abstract void subfun();
+
     public void oddoreven();
 }
