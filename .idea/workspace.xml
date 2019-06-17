@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1200b718-ac7b-48e9-a9b1-6ac2dbfc348f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Java/Basics/Java/Recursion/HelloWorld.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSw/DataStructure_and_Algorithm/HackerRank/Java/JavaHashSet.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSw/DataStructure_and_Algorithm/HackerRank/Java/JavaHashSet.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -15,7 +17,35 @@
     <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/DataStructure_and_Algorithm/HackerRank/PS/The_Hurdle_Race.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="306">
+              <caret line="18" selection-start-line="18" selection-end-line="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Java/Basics/Java/Recursion/HelloWorld.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="374">
+              <caret line="22" selection-start-line="22" selection-end-line="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Java/HackerRank/PS/Alg/Strings/ReducedStrings.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="84">
+              <caret line="14" column="36" lean-forward="true" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="36" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -43,10 +73,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Junit/AssertionTestTests.java" />
-        <option value="$PROJECT_DIR$/src/Junit/AssertionTest.java" />
-        <option value="$PROJECT_DIR$/src/DataStructure_and_Algorithm/HackerRank/Days_30/fact.java" />
-        <option value="$PROJECT_DIR$/src/Java/Basics/Java_lib/math_func.java" />
         <option value="$PROJECT_DIR$/src/DataStructure_and_Algorithm/HackerRank/Java/Anagrams.java" />
         <option value="$PROJECT_DIR$/src/DataStructure_and_Algorithm/HackerRank/Java/String_intro.java" />
         <option value="$PROJECT_DIR$/src/DataStructure_and_Algorithm/HackerRank/Java/min_max_sum.java" />
@@ -94,6 +120,10 @@
         <option value="$PROJECT_DIR$/src/Java/Basics/Java/lang/CurrencyFormatter.java" />
         <option value="$PROJECT_DIR$/src/DataStructure_and_Algorithm/HackerRank/Java/HashSet.java" />
         <option value="$PROJECT_DIR$/src/DataStructure_and_Algorithm/HackerRank/Java/JavaHashSet.java" />
+        <option value="$PROJECT_DIR$/src/DataStructure_and_Algorithm/HackerRank/PS/The_Hurdle_Race.java.java" />
+        <option value="$PROJECT_DIR$/src/Java/Basics/Java/Recursion/HelloWorld.java" />
+        <option value="$PROJECT_DIR$/src/DataStructure_and_Algorithm/HackerRank/PS/Strings/ReducedStrings.java" />
+        <option value="$PROJECT_DIR$/src/Java/HackerRank/PS/Alg/Strings/ReducedStrings.java" />
       </list>
     </option>
   </component>
@@ -124,6 +154,71 @@
               <item name="DS" type="b2602c69:ProjectViewProjectNode" />
               <item name="DS" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="DS" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DS" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DS" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DS" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="DataStructure_and_Algorithm" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DS" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DS" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="DataStructure_and_Algorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="HackerRank" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DS" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DS" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="DataStructure_and_Algorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="HackerRank" type="462c0819:PsiDirectoryNode" />
+              <item name="PS" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DS" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DS" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="DataStructure_and_Algorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="HackerRank" type="462c0819:PsiDirectoryNode" />
+              <item name="PS" type="462c0819:PsiDirectoryNode" />
+              <item name="Strings" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DS" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DS" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DS" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DS" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Java" type="462c0819:PsiDirectoryNode" />
+              <item name="Basics" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DS" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DS" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Java" type="462c0819:PsiDirectoryNode" />
+              <item name="Basics" type="462c0819:PsiDirectoryNode" />
+              <item name="Java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DS" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DS" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Java" type="462c0819:PsiDirectoryNode" />
+              <item name="Basics" type="462c0819:PsiDirectoryNode" />
+              <item name="Java" type="462c0819:PsiDirectoryNode" />
+              <item name="Recursion" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -144,7 +239,7 @@
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
     <property name="create.test.in.the.same.root" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../list" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/DataStructure_and_Algorithm/HackerRank/PS" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
@@ -158,14 +253,15 @@
       <recent name="Junit.Class" />
       <recent name="Junit" />
     </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\Vishnu Thamizharasan\Documents\Vishnu\IntelIJ\DSw" />
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Vishnu Thamizharasan\Documents\Vishnu\IntelIJ\DS\src\DataStructure_and_Algorithm\HackerRank\PS" />
+      <recent name="C:\Users\Vishnu Thamizharasan\Documents\Vishnu\IntelIJ\DSw\src\DataStructure_and_Algorithm" />
     </key>
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
     </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\Vishnu Thamizharasan\Documents\Vishnu\IntelIJ\DSw\src\DataStructure_and_Algorithm" />
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Vishnu Thamizharasan\Documents\Vishnu\IntelIJ\DSw" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -180,20 +276,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.JavaHashSet">
-    <configuration name="Calender_class" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Java.Basics.Java_lib.Calender_class" />
-      <module name="DSw" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Java.Basics.Java_lib.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.ReducedStrings">
     <configuration name="CurrencyFormatter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Java.Basics.Java.lang.CurrencyFormatter" />
       <module name="DSw" />
@@ -207,12 +290,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Electronic_Shops" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DataStructure_and_Algorithm.HackerRank.PS.Electronic_Shops" />
+    <configuration name="HelloWorld" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Java.Basics.Java.Recursion.HelloWorld" />
       <module name="DSw" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="DataStructure_and_Algorithm.HackerRank.PS.*" />
+          <option name="PATTERN" value="Java.Basics.Java.Recursion.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -226,6 +309,19 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="DataStructure_and_Algorithm.HackerRank.Java.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReducedStrings" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Java.HackerRank.PS.Alg.Strings.ReducedStrings" />
+      <module name="DSw" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Java.HackerRank.PS.Alg.Strings.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -251,19 +347,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Application.Electronic_Shops" />
-      <item itemvalue="Application.Calender_class" />
       <item itemvalue="Application.String_Compare" />
       <item itemvalue="Application.CurrencyFormatter" />
       <item itemvalue="Application.JavaHashSet" />
+      <item itemvalue="Application.HelloWorld" />
+      <item itemvalue="Application.ReducedStrings" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ReducedStrings" />
+        <item itemvalue="Application.HelloWorld" />
         <item itemvalue="Application.JavaHashSet" />
         <item itemvalue="Application.CurrencyFormatter" />
         <item itemvalue="Application.String_Compare" />
-        <item itemvalue="Application.Calender_class" />
-        <item itemvalue="Application.Electronic_Shops" />
       </list>
     </recent_temporary>
   </component>
@@ -350,6 +446,9 @@
       <workItem from="1559750112111" duration="268000" />
       <workItem from="1559981257694" duration="8155000" />
       <workItem from="1560056774641" duration="604000" />
+      <workItem from="1560306303880" duration="196000" />
+      <workItem from="1560574716384" duration="2762000" />
+      <workItem from="1560788767168" duration="751000" />
     </task>
     <servers />
   </component>
@@ -386,12 +485,13 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="183718000" />
+    <option name="totallyTimeSpent" value="187427000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22541603" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23600605" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -407,7 +507,7 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.49924356" weight="0.3289689" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="9" sideWeight="0.580938" visible="true" weight="0.33060557" />
+      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.580938" weight="0.33060557" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.41906202" side_tool="true" weight="0.34369886" />
       <window_info anchor="bottom" id="Messages" order="11" sideWeight="0.49848714" weight="0.3289689" />
       <window_info anchor="bottom" id="Docker" order="12" show_stripe_button="false" />
@@ -797,6 +897,48 @@
           <properties />
           <option name="timeStamp" value="108" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Java/Basics/Java/Recursion/HelloWorld.java</url>
+          <line>12</line>
+          <properties />
+          <option name="timeStamp" value="109" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Java/Basics/Java/Recursion/HelloWorld.java</url>
+          <line>11</line>
+          <properties />
+          <option name="timeStamp" value="110" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Java/Basics/Java/Recursion/HelloWorld.java</url>
+          <line>10</line>
+          <properties />
+          <option name="timeStamp" value="111" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Java/Basics/Java/Recursion/HelloWorld.java</url>
+          <line>8</line>
+          <properties />
+          <option name="timeStamp" value="112" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Java/Basics/Java/Recursion/HelloWorld.java</url>
+          <line>7</line>
+          <properties />
+          <option name="timeStamp" value="113" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Java/Basics/Java/Recursion/HelloWorld.java</url>
+          <line>6</line>
+          <properties />
+          <option name="timeStamp" value="114" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Java/Basics/Java/Recursion/HelloWorld.java</url>
+          <line>18</line>
+          <properties />
+          <option name="timeStamp" value="116" />
+        </line-breakpoint>
         <line-breakpoint enabled="true" type="javascript">
           <url>file://$PROJECT_DIR$/src/DataStructure_and_Algorithm/HackerRank/Java/element.js</url>
           <line>5</line>
@@ -823,31 +965,18 @@
           </properties>
           <option name="timeStamp" value="90" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Java/Basics/Java/Recursion/HelloWorld.java</url>
+          <line>4</line>
+          <properties class="Java.Basics.Java.Recursion.HelloWorld" method="world">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="115" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/DataStructure_and_Algorithm/HackerRank/Java/min_max_sum.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="23" selection-start-line="4" selection-start-column="23" selection-end-line="4" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/DataStructure_and_Algorithm/HackerRank/Java/element.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" column="15" selection-start-line="13" selection-start-column="15" selection-end-line="13" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Java/Basics/Strings/ElementCalculation.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="510">
-          <caret line="32" column="26" lean-forward="true" selection-start-line="32" selection-start-column="26" selection-end-line="32" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Java/Advanced/Collections/Map/Duplicate_char.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
@@ -1230,6 +1359,27 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="272">
           <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DataStructure_and_Algorithm/HackerRank/PS/The_Hurdle_Race.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Java/Basics/Java/Recursion/HelloWorld.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" selection-start-line="22" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Java/HackerRank/PS/Alg/Strings/ReducedStrings.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="14" column="36" lean-forward="true" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="36" />
         </state>
       </provider>
     </entry>
