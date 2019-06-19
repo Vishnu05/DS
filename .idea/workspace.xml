@@ -2,9 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1200b718-ac7b-48e9-a9b1-6ac2dbfc348f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Java/Basics/Java/Recursion/HelloWorld.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DataStructure_and_Algorithm/HackerRank/PS/StrongPasswords.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Java/Basics/Java_lib/PatternsMatchers.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSw/DataStructure_and_Algorithm/HackerRank/Java/JavaHashSet.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSw/DataStructure_and_Algorithm/HackerRank/Java/JavaHashSet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Programs/Pattern.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Programs/PatternStar.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -18,29 +19,35 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/DataStructure_and_Algorithm/HackerRank/PS/The_Hurdle_Race.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="18" selection-start-line="18" selection-end-line="18" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Java/Basics/Java/Recursion/HelloWorld.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
-              <caret line="22" selection-start-line="22" selection-end-line="22" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Java/HackerRank/PS/Alg/Strings/ReducedStrings.java">
+        <entry file="file://$PROJECT_DIR$/src/DataStructure_and_Algorithm/HackerRank/PS/StrongPasswords.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="84">
-              <caret line="14" column="36" lean-forward="true" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="36" />
+            <state relative-caret-position="259">
+              <caret line="70" column="5" selection-start-line="8" selection-start-column="4" selection-end-line="70" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Java/Basics/Java_lib/PatternsMatchers.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="9" column="29" lean-forward="true" selection-start-line="9" selection-start-column="29" selection-end-line="9" selection-end-column="29" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Programs/PatternStar.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="4" column="24" selection-start-line="4" selection-start-column="24" selection-end-line="4" selection-end-column="24" />
             </state>
           </provider>
         </entry>
@@ -73,9 +80,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/DataStructure_and_Algorithm/HackerRank/Java/Anagrams.java" />
-        <option value="$PROJECT_DIR$/src/DataStructure_and_Algorithm/HackerRank/Java/String_intro.java" />
-        <option value="$PROJECT_DIR$/src/DataStructure_and_Algorithm/HackerRank/Java/min_max_sum.java" />
         <option value="$PROJECT_DIR$/src/DataStructure_and_Algorithm/HackerRank/Java/element.js" />
         <option value="$PROJECT_DIR$/src/Java/Advanced/Collections/Map/Duplicate_char.java" />
         <option value="$PROJECT_DIR$/src/Java/Basics/Strings/ElementCalculation.java" />
@@ -124,6 +128,9 @@
         <option value="$PROJECT_DIR$/src/Java/Basics/Java/Recursion/HelloWorld.java" />
         <option value="$PROJECT_DIR$/src/DataStructure_and_Algorithm/HackerRank/PS/Strings/ReducedStrings.java" />
         <option value="$PROJECT_DIR$/src/Java/HackerRank/PS/Alg/Strings/ReducedStrings.java" />
+        <option value="$PROJECT_DIR$/src/Programs/Pattern.java" />
+        <option value="$PROJECT_DIR$/src/Java/Basics/Java_lib/PatternsMatchers.java" />
+        <option value="$PROJECT_DIR$/src/DataStructure_and_Algorithm/HackerRank/PS/StrongPasswords.java" />
       </list>
     </option>
   </component>
@@ -147,6 +154,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -176,23 +184,6 @@
               <item name="DS" type="b2602c69:ProjectViewProjectNode" />
               <item name="DS" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="DataStructure_and_Algorithm" type="462c0819:PsiDirectoryNode" />
-              <item name="HackerRank" type="462c0819:PsiDirectoryNode" />
-              <item name="PS" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="DS" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DS" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="DataStructure_and_Algorithm" type="462c0819:PsiDirectoryNode" />
-              <item name="HackerRank" type="462c0819:PsiDirectoryNode" />
-              <item name="PS" type="462c0819:PsiDirectoryNode" />
-              <item name="Strings" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="DS" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DS" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="Java" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -208,23 +199,13 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="Java" type="462c0819:PsiDirectoryNode" />
               <item name="Basics" type="462c0819:PsiDirectoryNode" />
-              <item name="Java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="DS" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DS" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Java" type="462c0819:PsiDirectoryNode" />
-              <item name="Basics" type="462c0819:PsiDirectoryNode" />
-              <item name="Java" type="462c0819:PsiDirectoryNode" />
-              <item name="Recursion" type="462c0819:PsiDirectoryNode" />
+              <item name="Java_lib" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -276,20 +257,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ReducedStrings">
-    <configuration name="CurrencyFormatter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Java.Basics.Java.lang.CurrencyFormatter" />
-      <module name="DSw" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Java.Basics.Java.lang.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.PatternsMatchers">
     <configuration name="HelloWorld" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Java.Basics.Java.Recursion.HelloWorld" />
       <module name="DSw" />
@@ -316,6 +284,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="PatternsMatchers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Java.Basics.Java_lib.PatternsMatchers" />
+      <module name="DSw" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Java.Basics.Java_lib.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ReducedStrings" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Java.HackerRank.PS.Alg.Strings.ReducedStrings" />
       <module name="DSw" />
@@ -329,12 +310,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="String_Compare" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DataStructure_and_Algorithm.HackerRank.Java.String_Compare" />
+    <configuration name="StrongPasswords" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DataStructure_and_Algorithm.HackerRank.PS.StrongPasswords" />
       <module name="DSw" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="DataStructure_and_Algorithm.HackerRank.Java.*" />
+          <option name="PATTERN" value="DataStructure_and_Algorithm.HackerRank.PS.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -347,19 +328,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Application.String_Compare" />
-      <item itemvalue="Application.CurrencyFormatter" />
       <item itemvalue="Application.JavaHashSet" />
       <item itemvalue="Application.HelloWorld" />
       <item itemvalue="Application.ReducedStrings" />
+      <item itemvalue="Application.StrongPasswords" />
+      <item itemvalue="Application.PatternsMatchers" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PatternsMatchers" />
+        <item itemvalue="Application.StrongPasswords" />
         <item itemvalue="Application.ReducedStrings" />
         <item itemvalue="Application.HelloWorld" />
         <item itemvalue="Application.JavaHashSet" />
-        <item itemvalue="Application.CurrencyFormatter" />
-        <item itemvalue="Application.String_Compare" />
       </list>
     </recent_temporary>
   </component>
@@ -448,7 +429,9 @@
       <workItem from="1560056774641" duration="604000" />
       <workItem from="1560306303880" duration="196000" />
       <workItem from="1560574716384" duration="2762000" />
-      <workItem from="1560788767168" duration="751000" />
+      <workItem from="1560788767168" duration="1206000" />
+      <workItem from="1560910399747" duration="183000" />
+      <workItem from="1560964060681" duration="2205000" />
     </task>
     <servers />
   </component>
@@ -485,13 +468,13 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="187427000" />
+    <option name="totallyTimeSpent" value="190270000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23600605" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20574887" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -500,7 +483,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.55673224" weight="0.32569557" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.55673224" visible="true" weight="0.32569557" />
       <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.5605144" weight="0.39443535" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -939,6 +922,42 @@
           <properties />
           <option name="timeStamp" value="116" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/DataStructure_and_Algorithm/HackerRank/PS/StrongPasswords.java</url>
+          <line>64</line>
+          <properties />
+          <option name="timeStamp" value="117" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/DataStructure_and_Algorithm/HackerRank/PS/StrongPasswords.java</url>
+          <line>65</line>
+          <properties />
+          <option name="timeStamp" value="118" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/DataStructure_and_Algorithm/HackerRank/PS/StrongPasswords.java</url>
+          <line>67</line>
+          <properties />
+          <option name="timeStamp" value="119" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/DataStructure_and_Algorithm/HackerRank/PS/StrongPasswords.java</url>
+          <line>34</line>
+          <properties />
+          <option name="timeStamp" value="120" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/DataStructure_and_Algorithm/HackerRank/PS/StrongPasswords.java</url>
+          <line>39</line>
+          <properties />
+          <option name="timeStamp" value="121" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/DataStructure_and_Algorithm/HackerRank/PS/StrongPasswords.java</url>
+          <line>44</line>
+          <properties />
+          <option name="timeStamp" value="122" />
+        </line-breakpoint>
         <line-breakpoint enabled="true" type="javascript">
           <url>file://$PROJECT_DIR$/src/DataStructure_and_Algorithm/HackerRank/Java/element.js</url>
           <line>5</line>
@@ -977,30 +996,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Java/Advanced/Collections/Map/Duplicate_char.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" selection-start-line="10" selection-end-line="10" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Java/Basics/Arrays/Matrix.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="134">
-          <caret line="37" column="45" lean-forward="true" selection-start-line="37" selection-start-column="45" selection-end-line="37" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Java/Basics/Arrays/AddingArray.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
-          <caret line="11" column="33" selection-start-line="11" selection-start-column="33" selection-end-line="11" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Java/Basics/Arrays/Arr.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
@@ -1378,8 +1373,35 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Java/HackerRank/PS/Alg/Strings/ReducedStrings.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="84">
-          <caret line="14" column="36" lean-forward="true" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="36" />
+        <state relative-caret-position="103">
+          <caret line="37" column="17" selection-start-line="37" selection-start-column="17" selection-end-line="37" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Java/Basics/Java_lib/PatternsMatchers.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="29" lean-forward="true" selection-start-line="9" selection-start-column="29" selection-end-line="9" selection-end-column="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Programs/PatternStar.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="24" selection-start-line="4" selection-start-column="24" selection-end-line="4" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DataStructure_and_Algorithm/HackerRank/PS/StrongPasswords.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="259">
+          <caret line="70" column="5" selection-start-line="8" selection-start-column="4" selection-end-line="70" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
