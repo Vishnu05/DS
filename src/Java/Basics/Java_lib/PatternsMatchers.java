@@ -8,7 +8,7 @@ public class PatternsMatchers {
     public static void main(String[] args) {
 
         String s = "AUzs-nV";
-        Pattern p = Pattern.compile("[!@#$%^&*()-+],[-]");
+        Pattern p = Pattern.compile("[!@#$%^&*()+-]-");
         Matcher m = p.matcher(s);
 
         if(m.find()){
