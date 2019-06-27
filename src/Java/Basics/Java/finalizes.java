@@ -8,5 +8,11 @@ public class finalizes extends GregorianCalendar {
 
         finalizes ob=new finalizes();
         System.out.println(ob.getTime());
+
+        if(1 > 1) {
+            System.out.println("condition passes");
+        } else {
+            System.out.println("condition fails and this is how it works");
+        }
     }
 }
