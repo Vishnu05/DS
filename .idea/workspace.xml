@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1200b718-ac7b-48e9-a9b1-6ac2dbfc348f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/DataStructure_and_Algorithm/HackerRank/PS/Service_lane.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DataStructure_and_Algorithm/HackerRank/PS/Lisa_workBook.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -48,16 +48,25 @@
         <entry file="file://$PROJECT_DIR$/src/DataStructure_and_Algorithm/HackerRank/PS/Permutation_Equation.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="221">
-              <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+              <caret line="13" selection-start-line="13" selection-end-line="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/DataStructure_and_Algorithm/HackerRank/PS/Service_lane.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="204">
+              <caret line="12" column="31" lean-forward="true" selection-start-line="12" selection-start-column="31" selection-end-line="12" selection-end-column="31" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/DataStructure_and_Algorithm/HackerRank/PS/Service_lane.java">
+        <entry file="file://$PROJECT_DIR$/src/DataStructure_and_Algorithm/HackerRank/PS/Lisa_workBook.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="145">
-              <caret line="24" column="30" selection-start-line="24" selection-start-column="30" selection-end-line="24" selection-end-column="30" />
+            <state relative-caret-position="306">
+              <caret line="18" column="31" lean-forward="true" selection-start-line="18" selection-start-column="31" selection-end-line="18" selection-end-column="31" />
             </state>
           </provider>
         </entry>
@@ -99,7 +108,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Junit/Junit5/TestCases.java" />
         <option value="$PROJECT_DIR$/src/DataStructure_and_Algorithm/HackerRank/Alg/camelCase.java" />
         <option value="$PROJECT_DIR$/src/DataStructure_and_Algorithm/HackerRank/PS/camelCase.java" />
         <option value="$PROJECT_DIR$/src/DataStructure_and_Algorithm/HackerRank/PS/Mars.java" />
@@ -150,6 +158,7 @@
         <option value="$PROJECT_DIR$/src/DataStructure_and_Algorithm/HackerRank/PS/Sherlock_and_Squares.java" />
         <option value="$PROJECT_DIR$/src/DataStructure_and_Algorithm/HackerRank/PS/src_Java_HackerRank_PS_Alg_Find_Digits.java" />
         <option value="$PROJECT_DIR$/src/DataStructure_and_Algorithm/HackerRank/PS/Service_lane.java" />
+        <option value="$PROJECT_DIR$/src/DataStructure_and_Algorithm/HackerRank/PS/Lisa_workBook.java" />
       </list>
     </option>
   </component>
@@ -173,6 +182,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -196,7 +206,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -442,7 +451,8 @@
       <workItem from="1561998073908" duration="2720000" />
       <workItem from="1562388399824" duration="4431000" />
       <workItem from="1562477345583" duration="1152000" />
-      <workItem from="1562861360860" duration="883000" />
+      <workItem from="1562861360860" duration="1266000" />
+      <workItem from="1563037946458" duration="605000" />
     </task>
     <servers />
   </component>
@@ -479,13 +489,13 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="231437000" />
+    <option name="totallyTimeSpent" value="232425000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26096824" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2647504" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -495,14 +505,14 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" sideWeight="0.5688351" weight="0.32569557" />
-      <window_info active="true" anchor="bottom" id="Debug" order="3" sideWeight="0.55975795" visible="true" weight="0.36824876" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.55975795" weight="0.36824876" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.49924356" weight="0.3289689" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.580938" weight="0.33060557" />
-      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.44024205" side_tool="true" weight="0.39443535" />
+      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.5680787" weight="0.33060557" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.43192133" side_tool="true" weight="0.33060557" />
       <window_info anchor="bottom" id="Messages" order="11" sideWeight="0.49848714" weight="0.3289689" />
       <window_info anchor="bottom" id="Docker" order="12" show_stripe_button="false" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -1159,7 +1169,7 @@
           <url>file://$PROJECT_DIR$/src/DataStructure_and_Algorithm/HackerRank/PS/Service_lane.java</url>
           <line>25</line>
           <properties />
-          <option name="timeStamp" value="212" />
+          <option name="timeStamp" value="213" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="javascript">
           <url>file://$PROJECT_DIR$/src/DataStructure_and_Algorithm/HackerRank/Java/element.js</url>
@@ -1199,16 +1209,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/DataStructure_and_Algorithm/HackerRank/PS/Mars.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" column="28" selection-start-line="16" selection-start-column="28" selection-end-line="16" selection-end-column="28" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/DataStructure_and_Algorithm/HackerRank/PS/hackerrank.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
@@ -1568,6 +1568,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/DataStructure_and_Algorithm/HackerRank/PS/Permutation_Equation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/DataStructure_and_Algorithm/Problems/ReverseTheArray.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="289">
@@ -1575,17 +1582,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/DataStructure_and_Algorithm/HackerRank/PS/Permutation_Equation.java">
+    <entry file="file://$PROJECT_DIR$/src/DataStructure_and_Algorithm/HackerRank/PS/Service_lane.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+        <state relative-caret-position="204">
+          <caret line="12" column="31" lean-forward="true" selection-start-line="12" selection-start-column="31" selection-end-line="12" selection-end-column="31" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/DataStructure_and_Algorithm/HackerRank/PS/Service_lane.java">
+    <entry file="file://$PROJECT_DIR$/src/DataStructure_and_Algorithm/HackerRank/PS/Lisa_workBook.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="145">
-          <caret line="24" column="30" selection-start-line="24" selection-start-column="30" selection-end-line="24" selection-end-column="30" />
+        <state relative-caret-position="306">
+          <caret line="18" column="31" lean-forward="true" selection-start-line="18" selection-start-column="31" selection-end-line="18" selection-end-column="31" />
         </state>
       </provider>
     </entry>
