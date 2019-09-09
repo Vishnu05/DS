@@ -2,12 +2,32 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1200b718-ac7b-48e9-a9b1-6ac2dbfc348f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Java/Basics/Java/InnerClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DataStructure_and_Algorithm/HackerRank/PS/UtopianTree2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Java/Advanced/Threading/fullCreative.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Java/Basics/Java/ViralAdvertising.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSw/DataStructure_and_Algorithm/HackerRank/PS/Maximizing_xor.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSw/DataStructure_and_Algorithm/HackerRank/PS/Maximizing_xor.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSw/Java/Basics/Prob/Inner_class$1inner.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSw/Java/Basics/Prob/Inner_class.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Java/Basics/Prob/Inner_class.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Java/Basics/Java/Inner_class_Inside_Method.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSw/Java/HackerRank/PS/Alg/Apples_and_Oranges.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSw/Java/HackerRank/PS/Alg/BirthdayChocolate.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSw/Java/HackerRank/PS/Alg/Bon_Appetit.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSw/Java/HackerRank/PS/Alg/Cat_and_a_Mouse.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSw/Java/HackerRank/PS/Alg/Compare_the_triplets.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSw/Java/HackerRank/PS/Alg/Diagonal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSw/Java/HackerRank/PS/Alg/Divisible_sum_pairs.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSw/Java/HackerRank/PS/Alg/Grading.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSw/Java/HackerRank/PS/Alg/Kangaroo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSw/Java/HackerRank/PS/Alg/Migratory_Birds.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSw/Java/HackerRank/PS/Alg/plus_minus.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DataStructure_and_Algorithm/HackerRank/PS/Apples_and_Oranges.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DataStructure_and_Algorithm/HackerRank/PS/Apples_and_Oranges.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DataStructure_and_Algorithm/HackerRank/PS/BirthdayChocolate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DataStructure_and_Algorithm/HackerRank/PS/BirthdayChocolate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DataStructure_and_Algorithm/HackerRank/PS/Bon_Appetit.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DataStructure_and_Algorithm/HackerRank/PS/Bon_Appetit.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DataStructure_and_Algorithm/HackerRank/PS/Cat_and_a_Mouse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DataStructure_and_Algorithm/HackerRank/PS/Cat_and_a_Mouse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DataStructure_and_Algorithm/HackerRank/PS/Compare_the_triplets.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DataStructure_and_Algorithm/HackerRank/PS/Compare_the_triplets.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DataStructure_and_Algorithm/HackerRank/PS/Diagonal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DataStructure_and_Algorithm/HackerRank/PS/Diagonal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DataStructure_and_Algorithm/HackerRank/PS/Divisible_sum_pairs.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DataStructure_and_Algorithm/HackerRank/PS/Divisible_sum_pairs.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DataStructure_and_Algorithm/HackerRank/PS/Grading.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DataStructure_and_Algorithm/HackerRank/PS/Grading.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DataStructure_and_Algorithm/HackerRank/PS/Kangaroo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DataStructure_and_Algorithm/HackerRank/PS/Kangaroo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DataStructure_and_Algorithm/HackerRank/PS/Migratory_Birds.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DataStructure_and_Algorithm/HackerRank/PS/Migratory_Birds.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DataStructure_and_Algorithm/HackerRank/PS/plus_minus.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DataStructure_and_Algorithm/HackerRank/PS/plus_minus.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -94,20 +114,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.InnerClass">
-    <configuration name="Find_Digits" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DataStructure_and_Algorithm.HackerRank.PS.Find_Digits" />
-      <module name="DSw" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="DataStructure_and_Algorithm.HackerRank.PS.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.UtopianTree2">
     <configuration name="InnerClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Java.Basics.Java.InnerClass" />
       <module name="DSw" />
@@ -147,8 +154,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Maximizing_xor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DataStructure_and_Algorithm.HackerRank.PS.Maximizing_xor" />
+    <configuration name="UtopianTree2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DataStructure_and_Algorithm.HackerRank.PS.UtopianTree2" />
+      <module name="DSw" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="DataStructure_and_Algorithm.HackerRank.PS.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Utopian_tree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DataStructure_and_Algorithm.HackerRank.PS.Utopian_tree" />
       <module name="DSw" />
       <extension name="coverage">
         <pattern>
@@ -165,20 +185,20 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Application.Find_Digits" />
-      <item itemvalue="Application.Maximizing_xor" />
       <item itemvalue="Application.Inner_class" />
       <item itemvalue="Application.Inner_class_Inside_Method" />
       <item itemvalue="Application.InnerClass" />
       <item itemvalue="Node.js.Node Compiler" />
+      <item itemvalue="Application.Utopian_tree" />
+      <item itemvalue="Application.UtopianTree2" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.UtopianTree2" />
+        <item itemvalue="Application.Utopian_tree" />
         <item itemvalue="Application.InnerClass" />
         <item itemvalue="Application.Inner_class_Inside_Method" />
         <item itemvalue="Application.Inner_class" />
-        <item itemvalue="Application.Maximizing_xor" />
-        <item itemvalue="Application.Find_Digits" />
       </list>
     </recent_temporary>
   </component>
@@ -299,6 +319,11 @@
       <workItem from="1563207729910" duration="3520000" />
       <workItem from="1565144651026" duration="1339000" />
       <workItem from="1565497477539" duration="1030000" />
+      <workItem from="1565626757446" duration="886000" />
+      <workItem from="1567326226271" duration="5573000" />
+      <workItem from="1567419657621" duration="599000" />
+      <workItem from="1567830281705" duration="1418000" />
+      <workItem from="1568045340156" duration="1970000" />
     </task>
     <servers />
   </component>

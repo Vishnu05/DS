@@ -1,4 +1,4 @@
-package Java.HackerRank.PS.Alg;
+package DataStructure_and_Algorithm.HackerRank.PS;
 
 import java.util.Arrays;
 import java.util.Scanner;
