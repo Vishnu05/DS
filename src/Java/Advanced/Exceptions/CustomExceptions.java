@@ -1,4 +1,4 @@
-package Exceptions;
+package Java.Advanced.Exceptions;
 
 public class CustomExceptions extends Exception {
 

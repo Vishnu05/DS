@@ -2,32 +2,30 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1200b718-ac7b-48e9-a9b1-6ac2dbfc348f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/DataStructure_and_Algorithm/HackerRank/PS/UtopianTree2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java/Advanced/Threading/fullCreative.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java/Basics/Java/ViralAdvertising.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Java/Advanced/Collections/Collections/ArrayLists.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Java/Advanced/Collections/Collections/Comp_HM_LHM_TM.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Java/Advanced/Collections/Collections/Iterator_Loop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Java/Advanced/Collections/Collections/LinkedListDS1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Java/Advanced/Collections/Collections/List_JavaLibraryBased.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Java/Advanced/Collections/Collections/Queue_Dequeue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Java/Advanced/Collections/Collections/Queues_PQ.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Java/Advanced/Collections/Collections/Set1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Java/Advanced/Collections/Collections/Sets.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Java/Advanced/Collections/Collections/Stack_DS.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Java/Advanced/Collections/Collections/arrayListDuplicate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Java/Advanced/Collections/Collections/fd.http" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Java/Advanced/Collections/Collections/hashMap_reloaded.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Java/Advanced/Collections/Collections/hashTable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Java/Advanced/Collections/Collections/hashmap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Java/Advanced/Collections/Collections/hasnext.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Java/Advanced/Collections/Collections/linkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Java/Basics/Java/ArraysRestarting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Java/Basics/Java/BigIntegerClass.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSw/Java/HackerRank/PS/Alg/Apples_and_Oranges.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSw/Java/HackerRank/PS/Alg/BirthdayChocolate.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSw/Java/HackerRank/PS/Alg/Bon_Appetit.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSw/Java/HackerRank/PS/Alg/Cat_and_a_Mouse.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSw/Java/HackerRank/PS/Alg/Compare_the_triplets.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSw/Java/HackerRank/PS/Alg/Diagonal.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSw/Java/HackerRank/PS/Alg/Divisible_sum_pairs.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSw/Java/HackerRank/PS/Alg/Grading.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSw/Java/HackerRank/PS/Alg/Kangaroo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSw/Java/HackerRank/PS/Alg/Migratory_Birds.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSw/Java/HackerRank/PS/Alg/plus_minus.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DataStructure_and_Algorithm/HackerRank/PS/Apples_and_Oranges.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DataStructure_and_Algorithm/HackerRank/PS/Apples_and_Oranges.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DataStructure_and_Algorithm/HackerRank/PS/BirthdayChocolate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DataStructure_and_Algorithm/HackerRank/PS/BirthdayChocolate.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DataStructure_and_Algorithm/HackerRank/PS/Bon_Appetit.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DataStructure_and_Algorithm/HackerRank/PS/Bon_Appetit.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DataStructure_and_Algorithm/HackerRank/PS/Cat_and_a_Mouse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DataStructure_and_Algorithm/HackerRank/PS/Cat_and_a_Mouse.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DataStructure_and_Algorithm/HackerRank/PS/Compare_the_triplets.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DataStructure_and_Algorithm/HackerRank/PS/Compare_the_triplets.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DataStructure_and_Algorithm/HackerRank/PS/Diagonal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DataStructure_and_Algorithm/HackerRank/PS/Diagonal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DataStructure_and_Algorithm/HackerRank/PS/Divisible_sum_pairs.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DataStructure_and_Algorithm/HackerRank/PS/Divisible_sum_pairs.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DataStructure_and_Algorithm/HackerRank/PS/Grading.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DataStructure_and_Algorithm/HackerRank/PS/Grading.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DataStructure_and_Algorithm/HackerRank/PS/Kangaroo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DataStructure_and_Algorithm/HackerRank/PS/Kangaroo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DataStructure_and_Algorithm/HackerRank/PS/Migratory_Birds.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DataStructure_and_Algorithm/HackerRank/PS/Migratory_Birds.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DataStructure_and_Algorithm/HackerRank/PS/plus_minus.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DataStructure_and_Algorithm/HackerRank/PS/plus_minus.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSw/Exceptions/CustomExceptions.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSw/Exceptions/go.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exceptions/CustomExceptions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Java/Advanced/Exceptions/CustomExceptions.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exceptions/go.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Java/Advanced/Exceptions/go.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -77,7 +75,7 @@
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
     <property name="create.test.in.the.same.root" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Java Udemy Spring Course/Start" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/Java/Basics/Java" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
@@ -114,22 +112,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.UtopianTree2">
+  <component name="RunManager" selected="Application.go">
     <configuration name="InnerClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Java.Basics.Java.InnerClass" />
-      <module name="DSw" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Java.Basics.Java.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Inner_class" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Java.Basics.Prob.Inner_class" />
       <module name="DSw" />
       <extension name="coverage">
         <pattern>
@@ -180,25 +165,38 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="go" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Java.Advanced.Exceptions.go" />
+      <module name="DSw" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Java.Advanced.Exceptions.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Node Compiler" type="NodeJSConfigurationType" working-dir="$PROJECT_DIR$">
       <output_file path="$PROJECT_DIR$" is_save="true" />
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Application.Inner_class" />
       <item itemvalue="Application.Inner_class_Inside_Method" />
       <item itemvalue="Application.InnerClass" />
-      <item itemvalue="Node.js.Node Compiler" />
       <item itemvalue="Application.Utopian_tree" />
       <item itemvalue="Application.UtopianTree2" />
+      <item itemvalue="Application.go" />
+      <item itemvalue="Node.js.Node Compiler" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.go" />
         <item itemvalue="Application.UtopianTree2" />
         <item itemvalue="Application.Utopian_tree" />
         <item itemvalue="Application.InnerClass" />
         <item itemvalue="Application.Inner_class_Inside_Method" />
-        <item itemvalue="Application.Inner_class" />
       </list>
     </recent_temporary>
   </component>
@@ -323,7 +321,10 @@
       <workItem from="1567326226271" duration="5573000" />
       <workItem from="1567419657621" duration="599000" />
       <workItem from="1567830281705" duration="1418000" />
-      <workItem from="1568045340156" duration="1970000" />
+      <workItem from="1568045340156" duration="2979000" />
+      <workItem from="1568074111290" duration="266000" />
+      <workItem from="1570032876873" duration="1529000" />
+      <workItem from="1570266074987" duration="261000" />
     </task>
     <servers />
   </component>
