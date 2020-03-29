@@ -5,20 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1200b718-ac7b-48e9-a9b1-6ac2dbfc348f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/DataStructure_and_Algorithm/HackerRank/PS/DrawingWorkBooks.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DataStructure_and_Algorithm/HackerRank/PS/JumpingOnTheClouds.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DataStructure_and_Algorithm/HackerRank/PS/RansomNoteMagazine.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DataStructure_and_Algorithm/HackerRank/PS/TaumAndBDay.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DataStructure_and_Algorithm/HackerRank/RecruitmentTest/index.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSw/Java/Advanced/Exceptions/Throw.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSw/Java/Advanced/Exceptions/Throw.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSw/Java/Advanced/Exceptions/go.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSw/Java/Advanced/Exceptions/go.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSw/Java/Basics/Java/ViralAdvertising.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSw/Java/Basics/OOPS/Polymorphism/Over.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSw/Java/Basics/OOPS/Polymorphism/Over.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSw/META-INF/DSw.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSw/Zoho/Basics/Loops/ForLoop.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSw/Zoho/Basics/Loops/ForLoop.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Java/Advanced/Exceptions/Throw.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Java/Advanced/Exceptions/Throw.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Java/Basics/Java/ViralAdvertising.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Java/HackerRank/PS/ViralAdvertising.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -92,7 +80,7 @@
       <recent name="C:\Users\Vishnu Thamizharasan\Documents\Vishnu\IntelIJ\DSw" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.DrawingWorkBooks">
+  <component name="RunManager" selected="Application.ReverseSort">
     <configuration name="DrawingWorkBooks" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="DataStructure_and_Algorithm.HackerRank.PS.DrawingWorkBooks" />
       <module name="DSw" />
@@ -119,12 +107,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RansomNoteMagazine" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DataStructure_and_Algorithm.HackerRank.PS.RansomNoteMagazine" />
+    <configuration name="ReverseSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DataStructure_and_Algorithm.Sorting.SelectionSort.ReverseSort" />
       <module name="DSw" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="DataStructure_and_Algorithm.HackerRank.PS.*" />
+          <option name="PATTERN" value="DataStructure_and_Algorithm.Sorting.SelectionSort.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -164,19 +152,19 @@
     </configuration>
     <list>
       <item itemvalue="Application.DrawingWorkBooks" />
-      <item itemvalue="Application.RansomNoteMagazine" />
       <item itemvalue="Application.ViralAdvertising" />
       <item itemvalue="Application.JumpingOnTheClouds" />
       <item itemvalue="Application.Throw" />
       <item itemvalue="Node.js.Node Compiler" />
+      <item itemvalue="Application.ReverseSort" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ReverseSort" />
         <item itemvalue="Application.DrawingWorkBooks" />
         <item itemvalue="Application.Throw" />
         <item itemvalue="Application.JumpingOnTheClouds" />
         <item itemvalue="Application.ViralAdvertising" />
-        <item itemvalue="Application.RansomNoteMagazine" />
       </list>
     </recent_temporary>
   </component>
@@ -334,7 +322,7 @@
       <workItem from="1580029101476" duration="8423000" />
       <workItem from="1580348616784" duration="3205000" />
       <workItem from="1581221301821" duration="474000" />
-      <workItem from="1585469926100" duration="2256000" />
+      <workItem from="1585469926100" duration="2561000" />
     </task>
     <servers />
   </component>
@@ -380,46 +368,46 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="434" y="234" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1366.728@0.0.1366.728" timestamp="1580087543466" />
-    <state width="1323" height="226" key="GridCell.Tab.0.bottom" timestamp="1585493495854">
+    <state width="1323" height="226" key="GridCell.Tab.0.bottom" timestamp="1585493862674">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="226" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1585493495854" />
-    <state width="1323" height="226" key="GridCell.Tab.0.center" timestamp="1585493495854">
+    <state width="1323" height="226" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1585493862674" />
+    <state width="1323" height="226" key="GridCell.Tab.0.center" timestamp="1585493862674">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="226" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1585493495854" />
-    <state width="1323" height="226" key="GridCell.Tab.0.left" timestamp="1585493495853">
+    <state width="1323" height="226" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1585493862674" />
+    <state width="1323" height="226" key="GridCell.Tab.0.left" timestamp="1585493862673">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="226" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1585493495853" />
-    <state width="1323" height="226" key="GridCell.Tab.0.right" timestamp="1585493495854">
+    <state width="1323" height="226" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1585493862673" />
+    <state width="1323" height="226" key="GridCell.Tab.0.right" timestamp="1585493862674">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="226" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1585493495854" />
-    <state width="1323" height="226" key="GridCell.Tab.1.bottom" timestamp="1585493495854">
+    <state width="1323" height="226" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1585493862674" />
+    <state width="1323" height="226" key="GridCell.Tab.1.bottom" timestamp="1585493862674">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="226" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1585493495854" />
-    <state width="1323" height="226" key="GridCell.Tab.1.center" timestamp="1585493495854">
+    <state width="1323" height="226" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1585493862674" />
+    <state width="1323" height="226" key="GridCell.Tab.1.center" timestamp="1585493862674">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="226" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1585493495854" />
-    <state width="1323" height="226" key="GridCell.Tab.1.left" timestamp="1585493495854">
+    <state width="1323" height="226" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1585493862674" />
+    <state width="1323" height="226" key="GridCell.Tab.1.left" timestamp="1585493862674">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="226" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1585493495854" />
-    <state width="1323" height="226" key="GridCell.Tab.1.right" timestamp="1585493495854">
+    <state width="1323" height="226" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1585493862674" />
+    <state width="1323" height="226" key="GridCell.Tab.1.right" timestamp="1585493862674">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="226" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1585493495854" />
+    <state width="1323" height="226" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1585493862674" />
     <state x="186" y="10" key="SettingsEditor" timestamp="1580348956846">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="186" y="10" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1580348956846" />
-    <state x="395" y="196" key="com.intellij.ide.util.TipDialog" timestamp="1585469938912">
+    <state x="395" y="196" key="com.intellij.ide.util.TipDialog" timestamp="1585494007541">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="395" y="196" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1585469938912" />
+    <state x="395" y="196" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1585494007541" />
     <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1580034098159">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
