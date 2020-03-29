@@ -1,33 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="SCOPE_TYPE" value="3" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="1200b718-ac7b-48e9-a9b1-6ac2dbfc348f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Java/Advanced/Collections/Collections/ArrayLists.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java/Advanced/Collections/Collections/Comp_HM_LHM_TM.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java/Advanced/Collections/Collections/Iterator_Loop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java/Advanced/Collections/Collections/LinkedListDS1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java/Advanced/Collections/Collections/List_JavaLibraryBased.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java/Advanced/Collections/Collections/Queue_Dequeue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java/Advanced/Collections/Collections/Queues_PQ.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java/Advanced/Collections/Collections/Set1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java/Advanced/Collections/Collections/Sets.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java/Advanced/Collections/Collections/Stack_DS.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java/Advanced/Collections/Collections/arrayListDuplicate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java/Advanced/Collections/Collections/fd.http" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java/Advanced/Collections/Collections/hashMap_reloaded.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java/Advanced/Collections/Collections/hashTable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java/Advanced/Collections/Collections/hashmap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java/Advanced/Collections/Collections/hasnext.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java/Advanced/Collections/Collections/linkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java/Basics/Java/ArraysRestarting.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java/Basics/Java/BigIntegerClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DataStructure_and_Algorithm/HackerRank/PS/DrawingWorkBooks.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DataStructure_and_Algorithm/HackerRank/PS/JumpingOnTheClouds.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DataStructure_and_Algorithm/HackerRank/PS/RansomNoteMagazine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DataStructure_and_Algorithm/HackerRank/PS/TaumAndBDay.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DataStructure_and_Algorithm/HackerRank/RecruitmentTest/index.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSw/Exceptions/CustomExceptions.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSw/Exceptions/go.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Exceptions/CustomExceptions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Java/Advanced/Exceptions/CustomExceptions.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Exceptions/go.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Java/Advanced/Exceptions/go.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSw/Java/Advanced/Exceptions/Throw.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSw/Java/Advanced/Exceptions/Throw.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSw/Java/Advanced/Exceptions/go.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSw/Java/Advanced/Exceptions/go.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSw/Java/Basics/Java/ViralAdvertising.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSw/Java/Basics/OOPS/Polymorphism/Over.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSw/Java/Basics/OOPS/Polymorphism/Over.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSw/META-INF/DSw.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSw/Zoho/Basics/Loops/ForLoop.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSw/Zoho/Basics/Loops/ForLoop.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Java/Advanced/Exceptions/Throw.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Java/Advanced/Exceptions/Throw.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Java/Basics/Java/ViralAdvertising.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Java/HackerRank/PS/ViralAdvertising.java" afterDir="false" />
     </list>
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -47,15 +39,6 @@
       </list>
     </option>
   </component>
-  <component name="FindInProjectRecents">
-    <findStrings>
-      <find>wired</find>
-      <find>729580</find>
-    </findStrings>
-    <replaceStrings>
-      <replace>weird</replace>
-    </replaceStrings>
-  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -63,10 +46,16 @@
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
     <property name="Downloaded.Files.Path.Enabled" value="true" />
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
@@ -75,72 +64,37 @@
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
     <property name="create.test.in.the.same.root" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/Java/Basics/Java" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Office/DS" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.TypeScript" />
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
       <recent name="Junit.Class" />
       <recent name="Junit" />
     </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\Vishnu Thamizharasan\Documents\Vishnu\IntelIJ\DSw" />
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Vishnu Thamizharasan\Documents\Vishnu\IntelIJ\DS\src\DataStructure_and_Algorithm\HackerRank\PS" />
+      <recent name="C:\Users\Vishnu Thamizharasan\Documents\Vishnu\IntelIJ\DS\src\Java\Basics\Java" />
+      <recent name="C:\Users\Vishnu Thamizharasan\Documents\Vishnu\IntelIJ\DS\src\Java\Advanced\Collections" />
+      <recent name="C:\Users\Vishnu Thamizharasan\Documents\Vishnu\IntelIJ\DSw\src\DataStructure_and_Algorithm" />
     </key>
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
     </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\Vishnu Thamizharasan\Documents\Vishnu\IntelIJ\DS\src\DataStructure_and_Algorithm\HackerRank\PS" />
-      <recent name="C:\Users\Vishnu Thamizharasan\Documents\Vishnu\IntelIJ\DSw\src\DataStructure_and_Algorithm" />
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Vishnu Thamizharasan\Documents\Vishnu\IntelIJ\DSw" />
     </key>
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
-  <component name="RunManager" selected="Application.go">
-    <configuration name="InnerClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Java.Basics.Java.InnerClass" />
-      <module name="DSw" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Java.Basics.Java.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Inner_class_Inside_Method" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Java.Basics.Java.Inner_class_Inside_Method" />
-      <module name="DSw" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Java.Basics.Java.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="UtopianTree2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DataStructure_and_Algorithm.HackerRank.PS.UtopianTree2" />
+  <component name="RunManager" selected="Application.DrawingWorkBooks">
+    <configuration name="DrawingWorkBooks" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DataStructure_and_Algorithm.HackerRank.PS.DrawingWorkBooks" />
       <module name="DSw" />
       <extension name="coverage">
         <pattern>
@@ -152,8 +106,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Utopian_tree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DataStructure_and_Algorithm.HackerRank.PS.Utopian_tree" />
+    <configuration name="JumpingOnTheClouds" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DataStructure_and_Algorithm.HackerRank.PS.JumpingOnTheClouds" />
       <module name="DSw" />
       <extension name="coverage">
         <pattern>
@@ -165,12 +119,38 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="go" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Java.Advanced.Exceptions.go" />
+    <configuration name="RansomNoteMagazine" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DataStructure_and_Algorithm.HackerRank.PS.RansomNoteMagazine" />
+      <module name="DSw" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="DataStructure_and_Algorithm.HackerRank.PS.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Throw" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Java.Advanced.Exceptions.Throw" />
       <module name="DSw" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Java.Advanced.Exceptions.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ViralAdvertising" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Java.HackerRank.PS.ViralAdvertising" />
+      <module name="DSw" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Java.HackerRank.PS.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -183,22 +163,34 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Application.Inner_class_Inside_Method" />
-      <item itemvalue="Application.InnerClass" />
-      <item itemvalue="Application.Utopian_tree" />
-      <item itemvalue="Application.UtopianTree2" />
-      <item itemvalue="Application.go" />
+      <item itemvalue="Application.DrawingWorkBooks" />
+      <item itemvalue="Application.RansomNoteMagazine" />
+      <item itemvalue="Application.ViralAdvertising" />
+      <item itemvalue="Application.JumpingOnTheClouds" />
+      <item itemvalue="Application.Throw" />
       <item itemvalue="Node.js.Node Compiler" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.go" />
-        <item itemvalue="Application.UtopianTree2" />
-        <item itemvalue="Application.Utopian_tree" />
-        <item itemvalue="Application.InnerClass" />
-        <item itemvalue="Application.Inner_class_Inside_Method" />
+        <item itemvalue="Application.DrawingWorkBooks" />
+        <item itemvalue="Application.Throw" />
+        <item itemvalue="Application.JumpingOnTheClouds" />
+        <item itemvalue="Application.ViralAdvertising" />
+        <item itemvalue="Application.RansomNoteMagazine" />
       </list>
     </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -324,41 +316,27 @@
       <workItem from="1568045340156" duration="2979000" />
       <workItem from="1568074111290" duration="266000" />
       <workItem from="1570032876873" duration="1529000" />
-      <workItem from="1570266074987" duration="261000" />
+      <workItem from="1570266074987" duration="487000" />
+      <workItem from="1570325015413" duration="626000" />
+      <workItem from="1570368984048" duration="2173000" />
+      <workItem from="1573305494493" duration="619000" />
+      <workItem from="1573308514648" duration="6040000" />
+      <workItem from="1573368248435" duration="1208000" />
+      <workItem from="1573369943084" duration="2078000" />
+      <workItem from="1573915129894" duration="120000" />
+      <workItem from="1574099959122" duration="3081000" />
+      <workItem from="1574994071908" duration="2370000" />
+      <workItem from="1575561301752" duration="1081000" />
+      <workItem from="1578196614717" duration="943000" />
+      <workItem from="1578363818011" duration="1955000" />
+      <workItem from="1579425771144" duration="857000" />
+      <workItem from="1580028548885" duration="123000" />
+      <workItem from="1580029101476" duration="8423000" />
+      <workItem from="1580348616784" duration="3205000" />
+      <workItem from="1581221301821" duration="474000" />
+      <workItem from="1585469926100" duration="2256000" />
     </task>
     <servers />
-  </component>
-  <component name="TestHistory">
-    <history-entry file="CalculatorTest_divTest - 2019.03.31 at 22h 33m 07s.xml">
-      <configuration name="CalculatorTest.divTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="TestCases - 2019.04.01 at 07h 38m 30s.xml">
-      <configuration name="TestCases" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="TestCases - 2019.04.01 at 07h 38m 58s.xml">
-      <configuration name="TestCases" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="TestCases - 2019.04.01 at 07h 39m 11s.xml">
-      <configuration name="TestCases" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="TestCases - 2019.04.01 at 07h 40m 13s.xml">
-      <configuration name="TestCases" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="TestCases - 2019.04.01 at 07h 41m 56s.xml">
-      <configuration name="TestCases" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="TestCases - 2019.04.01 at 07h 42m 12s.xml">
-      <configuration name="TestCases" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="TestCases_subTest - 2019.04.01 at 07h 43m 12s.xml">
-      <configuration name="TestCases.subTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="TestCases_subTest - 2019.04.01 at 07h 44m 05s.xml">
-      <configuration name="TestCases.subTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="TestCases - 2019.04.01 at 08h 07m 49s.xml">
-      <configuration name="TestCases" configurationId="JUnit" />
-    </history-entry>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -392,6 +370,60 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="376" y="73" key="#com.intellij.featureStatistics.actions.ShowFeatureUsageStatisticsDialog" timestamp="1580030208174">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="376" y="73" key="#com.intellij.featureStatistics.actions.ShowFeatureUsageStatisticsDialog/0.0.1366.728@0.0.1366.728" timestamp="1580030208174" />
+    <state x="434" y="234" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1580087543466">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="434" y="234" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1366.728@0.0.1366.728" timestamp="1580087543466" />
+    <state width="1323" height="226" key="GridCell.Tab.0.bottom" timestamp="1585493495854">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="226" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1585493495854" />
+    <state width="1323" height="226" key="GridCell.Tab.0.center" timestamp="1585493495854">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="226" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1585493495854" />
+    <state width="1323" height="226" key="GridCell.Tab.0.left" timestamp="1585493495853">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="226" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1585493495853" />
+    <state width="1323" height="226" key="GridCell.Tab.0.right" timestamp="1585493495854">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="226" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1585493495854" />
+    <state width="1323" height="226" key="GridCell.Tab.1.bottom" timestamp="1585493495854">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="226" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1585493495854" />
+    <state width="1323" height="226" key="GridCell.Tab.1.center" timestamp="1585493495854">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="226" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1585493495854" />
+    <state width="1323" height="226" key="GridCell.Tab.1.left" timestamp="1585493495854">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="226" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1585493495854" />
+    <state width="1323" height="226" key="GridCell.Tab.1.right" timestamp="1585493495854">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="226" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1585493495854" />
+    <state x="186" y="10" key="SettingsEditor" timestamp="1580348956846">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="186" y="10" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1580348956846" />
+    <state x="395" y="196" key="com.intellij.ide.util.TipDialog" timestamp="1585469938912">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="395" y="196" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1585469938912" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1580034098159">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1580034098159" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -891,6 +923,76 @@
           <line>25</line>
           <option name="timeStamp" value="213" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/DataStructure_and_Algorithm/HackerRank/PS/RansomNoteMagazine.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="220" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Java/HackerRank/PS/ViralAdvertising.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="221" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Java/HackerRank/PS/ViralAdvertising.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="222" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Java/HackerRank/PS/ViralAdvertising.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="223" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/DataStructure_and_Algorithm/HackerRank/PS/JumpingOnTheClouds.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="234" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/DataStructure_and_Algorithm/HackerRank/PS/JumpingOnTheClouds.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="235" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/DataStructure_and_Algorithm/HackerRank/PS/JumpingOnTheClouds.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="236" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/DataStructure_and_Algorithm/HackerRank/PS/DrawingWorkBooks.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="237" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/DataStructure_and_Algorithm/HackerRank/PS/DrawingWorkBooks.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="238" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/DataStructure_and_Algorithm/HackerRank/PS/DrawingWorkBooks.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="239" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/DataStructure_and_Algorithm/HackerRank/PS/DrawingWorkBooks.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="240" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/DataStructure_and_Algorithm/HackerRank/PS/DrawingWorkBooks.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="241" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/DataStructure_and_Algorithm/HackerRank/PS/DrawingWorkBooks.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="242" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/DataStructure_and_Algorithm/HackerRank/PS/DrawingWorkBooks.java</url>
+          <line>27</line>
+          <option name="timeStamp" value="243" />
+        </line-breakpoint>
         <line-breakpoint enabled="true" type="javascript">
           <url>file://$PROJECT_DIR$/src/DataStructure_and_Algorithm/HackerRank/Java/element.js</url>
           <line>5</line>
@@ -927,88 +1029,5 @@
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
-  </component>
-  <component name="masterDetails">
-    <states>
-      <state key="ArtifactsStructureConfigurable.UI">
-        <settings>
-          <artifact-editor />
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="FacetStructureConfigurable.UI">
-        <settings>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="GlobalLibrariesConfigurable.UI">
-        <settings>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="JdkListConfigurable.UI">
-        <settings>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ModuleStructureConfigurable.UI">
-        <settings>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ProjectJDKs.UI">
-        <settings>
-          <last-edited>1.8</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ProjectLibrariesConfigurable.UI">
-        <settings>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-    </states>
   </component>
 </project>
