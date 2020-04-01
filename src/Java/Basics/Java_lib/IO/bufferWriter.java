@@ -16,7 +16,7 @@ public class bufferWriter {
         //System.out.println(br.lines());
 
         try {
-            FileWriter fw = new FileWriter("C:\\Users\\vthamizh\\IdeaProjects\\DS\\src\\Java\\Basics\\brrs.txt");
+            FileWriter fw = new FileWriter("C:\\Users\\vthamizh\\IdeaProjects\\DS\\src\\Java\\Java.Basics.Basics\\brrs.txt");
             BufferedWriter bw = new BufferedWriter(fw);
             bw.write("hello Hello this is buffered reader\n" +
                     "and this entire string of word\n" +
