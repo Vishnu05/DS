@@ -1,0 +1,4 @@
+hello Hello this is buffered reader
+and this entire string of word
+is going to read and write by the buffered
+reader brace yourself compliers.Files has ended퓊宀

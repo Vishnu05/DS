@@ -2,7 +2,7 @@
 java.txt
 yoo.java
 src/tuv.java
-out
-lib
-.idea
-DSw.iml
+out/*
+lib/*
+.idea/*
+DS.iml
