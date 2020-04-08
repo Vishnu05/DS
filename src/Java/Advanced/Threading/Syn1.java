@@ -1,4 +1,4 @@
-package Java.Advn.Thread;
+package Java.Advanced.Threading;
 
 
 public class Syn1 extends Thread {
@@ -20,7 +20,7 @@ public class Syn1 extends Thread {
 
     public static void main(String args[]) throws InterruptedException {
 
-        Syn ob = new Syn();
+        Syn1 ob = new Syn1();
         ob.start();
         //ob.increment();
 

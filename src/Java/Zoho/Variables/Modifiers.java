@@ -1,4 +1,4 @@
-package Java.Basics.Variables;
+package Java.Zoho.Variables;
 
 
 public class Modifiers {

@@ -1,7 +1,9 @@
 package Java.Advanced.Collections.Collections;
 
 import java.util.ArrayList;
+import java.util.LinkedList;
 import java.util.List;
+import java.util.Vector;
 
 
 public class List_JavaLibraryBased {
@@ -20,12 +22,17 @@ public class List_JavaLibraryBased {
         System.out.println(list);
 
 
-
         list.forEach((e -> System.out.println(e)));
 
         for (Object ii : list) {
             System.out.print(ii + " ");
         }
+
+        List list1 = new LinkedList();
+        list1 = new ArrayList();
+        list1 = new Vector();
+        list1.add("hi");
+        System.out.println("Interface objects : " + list1);
 
 
     }

@@ -1,6 +1,6 @@
-package Java.Basics.Java;
+package Java.Zoho.Java;
 
-public interface Abstract {
+public interface Abstracts {
 
     public void addfunction();
   abstract void subfun();

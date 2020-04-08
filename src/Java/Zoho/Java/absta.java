@@ -1,6 +1,6 @@
-package Java.Basics.Java;
+package Java.Zoho.Java;
 
-public class absta implements Abstract {
+public class absta implements Abstracts {
 
 
     public void addfunction() {

@@ -1,11 +1,6 @@
-package Java.Basics.Java;
-//
-//class name {
-//
-//
-//}
+package Java.Zoho.Java;
 
-class Funct {
+class Functs {
 
     String zoho = "The dream company";
     int year = 18;
@@ -44,7 +39,7 @@ class Funct {
 
     public static void main(String args[]) {
 
-        Funct ob = new Funct();
+        Functs ob = new Functs();
         ob.somefun();
         ob.encap();
         ob.idk();

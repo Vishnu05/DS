@@ -6,7 +6,7 @@ import java.io.FileWriter;
 import java.io.PrintStream;
 import java.util.Scanner;
 
-public class DataMappingLength {
+public class DataMappingLengths {
 
     static Scanner scan = new Scanner(System.in);
     public static void main(String[] args) throws Exception {
