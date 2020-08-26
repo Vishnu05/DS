@@ -1,4 +1,4 @@
-package Java.Advanced.Collections.Collections;
+package Java.Advanced.Collections.Set;
 
 import java.util.Arrays;
 import java.util.Iterator;

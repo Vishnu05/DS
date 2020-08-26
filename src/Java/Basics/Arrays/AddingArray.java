@@ -9,7 +9,7 @@ public class AddingArray {
 
         Scanner var = new Scanner(System.in);
         System.out.println("Enter the element size : ");
-        //intailizing the variable
+        //initializing the variable
         int n = var.nextInt();
         int a[] = new int[n];
         int temp = 0;
