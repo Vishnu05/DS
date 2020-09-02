@@ -1,6 +1,6 @@
 package Java.Junit;
 
-import DataStructure_and_Algorithm.Problems.Calculator;
+import PS.Problems.Calculator;
 import org.junit.Test;
 
 import static org.junit.Assert.assertEquals;

@@ -1,10 +1,5 @@
 package Java.Advanced.Exceptions;
 
-import DataStructure_and_Algorithm.HackerRank.PS.The_Birthday_bar;
-
-import java.util.InputMismatchException;
-import java.util.Scanner;
-
 public class Throw {
 
     static void ThrowCheck() {
