@@ -5,7 +5,7 @@ import java.util.Map;
 import java.util.Set;
 import java.util.TreeMap;
 
-public class hashMap_reloaded {
+public class LinkedAndTreeHashMap {
 
     public static void main(String[] args) {
 
@@ -23,6 +23,7 @@ public class hashMap_reloaded {
 
         System.out.println(ob + "\n");
 
+        // iterating through lambda expression
         ob.forEach((q, e) -> System.out.println(q + " = " + e));
         System.out.println();
         Set set = ob.entrySet();
@@ -41,6 +42,8 @@ public class hashMap_reloaded {
          * https://www.techiedelight.com/get-map-key-from-value-java/
          * https://stackoverflow.com/questions/1383797/java-hashmap-how-to-get-key-from-value
          * */
+
+        // iterating through the hash map
         for (Map.Entry<Integer, String> entry : ob.entrySet()) {
             if (entry.getValue().equals("html")) {
                 System.out.println(entry.getKey());

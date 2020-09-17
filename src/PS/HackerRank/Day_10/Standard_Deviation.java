@@ -1,4 +1,4 @@
-package Java.HackerRank.$10day_challenge;
+package PS.HackerRank.Day_10;
 
 import java.text.DecimalFormat;
 import java.util.Scanner;

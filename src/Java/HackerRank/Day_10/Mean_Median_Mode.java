@@ -1,4 +1,4 @@
-package Java.HackerRank.$10day_challenge;
+package Java.HackerRank.Day_10;
 
 import java.text.DecimalFormat;
 import java.util.Arrays;
