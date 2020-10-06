@@ -31,7 +31,7 @@ public class CountingTheValuesUsingMap {
             if (lhm.containsKey(c)) {
                 lhm.put(c, lhm.get(c) + 1);
             } else {
-                lhm.put(c, 1)
+                lhm.put(c, 1);
             }
         }
         System.out.println(lhm.entrySet());

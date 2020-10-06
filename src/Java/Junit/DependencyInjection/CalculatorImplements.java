@@ -1,6 +1,6 @@
-package Java.Junit.Class;
+package Java.Junit.DependencyInjection;
 
-public class Calculator {
+public class CalculatorImplements implements CalculatorInterface {
 
     public int add(int a, int b) {
         return a + b;
@@ -22,16 +22,5 @@ public class Calculator {
 
         int arr[] = {1, 2};
         return arr;
-    }
-
-
-    public String TDD(String str) {
-        return str;
-    }
-
-    public static void main(String[] args) {
-
-        Calculator cal = new Calculator();
-        System.out.println(cal.add(1, 2));
     }
 }
