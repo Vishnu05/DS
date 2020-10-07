@@ -35,6 +35,14 @@ public class CountingTheValuesUsingMap {
             }
         }
         System.out.println(lhm.entrySet());
+
+        /** Getting the keys using values */
+
+        for (Map.Entry<Character, Integer> map : lhm.entrySet()) {
+            if(map.getValue() == 2) {
+                System.out.println("All the key contains value 2 " + map.getKey());
+            }
+        }
     }
 
 }
